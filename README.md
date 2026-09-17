@@ -18,6 +18,6 @@ Para ejecutar el código de limpieza y reproducir la matriz de interacciones, de
 3. Ejecuta el notebook de preparación de datos para aplicar el filtrado iterativo (k-core).
 4. El script generará los archivos `instacart_matriz_limpia.csv`, `productos_mapeados.csv` y `matriz_meta.json`.
 
-## 🚀 Arquitectura
+## Arquitectura
 * **Python (Pandas):** Limpieza de ruido, mitigación de Cold Start* y mapeo categórico. El dataset final procesado supera los 13 millones de registros.
 * **Go:** Implementación del algoritmo de factorización de matrices utilizando concurrencia nativa (*Worker Pools* y *Fine-Grained Locking*).
