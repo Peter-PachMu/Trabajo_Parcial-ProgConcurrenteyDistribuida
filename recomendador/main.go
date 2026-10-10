@@ -32,6 +32,7 @@ const (
 	LatentFeatures = 10     // Dimensión de los factores latentes (K)
 	LearningRate   = 0.0005 // Alpha
 	Regularization = 0.05   // Lambda (para evitar overfitting)
+	Epochs = 10
 )
 
 // Modelo almacena las matrices P (Usuarios) y Q (Ítems)
@@ -125,85 +126,97 @@ func main() {
 	fmt.Println("             PREDICCIONES PARA EL MERCADO PERUANO         ")
 	fmt.Println("=======================================================================")
 
-	usuarioPrueba := 0 //Seleccionamos el usuario
-	fmt.Printf("Generando recomendaciones predictivas para el Usuario %d...\n\n", usuarioPrueba)
+	usuarioPrueba := 3 
+    fmt.Printf("Generando recomendaciones predictivas para el Usuario %d...\n\n", usuarioPrueba)
 
-	// Estructura temporal para ordenar los puntajes
-	type Recomendacion struct {
-		ItemID  int
-		Puntaje float64
-	}
-	var recomendaciones []Recomendacion
+    // 1. Filtrado de ítems ya comprados
+    itemsComprados := make(map[int]bool)
+    for _, obs := range interacciones {
+        if obs.UserIndex == usuarioPrueba {
+            itemsComprados[obs.ItemIndex] = true
+        }
+    }
 
-	// Calculo de la afinidad entre el usuario y todos los ítems
-	for i := 0; i < len(modeloFinal.Q); i++ {
-		var prediccion float64
-		for k := 0; k < LatentFeatures; k++ {
-			prediccion += modeloFinal.P[usuarioPrueba][k] * modeloFinal.Q[i][k]
-		}
-		recomendaciones = append(recomendaciones, Recomendacion{ItemID: i, Puntaje: prediccion})
-	}
+    type Recomendacion struct {
+        ItemID  int
+        Puntaje float64
+    }
+    var recomendaciones []Recomendacion
 
-	// Ordena la lista de productos de mayor a menor puntaje predictivo
-	sort.Slice(recomendaciones, func(i, j int) bool {
-		return recomendaciones[i].Puntaje > recomendaciones[j].Puntaje
-	})
+    // 2. Calculo de la afinidad cruzada
+    for i := 0; i < len(modeloFinal.Q); i++ {
+        // Si el usuario ya compró este producto, lo saltamos
+        if itemsComprados[i] {
+            continue
+        }
 
-	// Top 5 cruzando el ID con el catalogo
-	for i := 0; i < 5; i++ {
-		rec := recomendaciones[i]
-		productoReal := catalogo[rec.ItemID]
-		fmt.Printf("Top %d | Afinidad: %.4f | Producto: %-35s | Marca: %s\n", 
-			i+1, rec.Puntaje, productoReal.Nombre, productoReal.Marca)
-	}
+        var prediccion float64
+        for k := 0; k < LatentFeatures; k++ {
+            prediccion += modeloFinal.P[usuarioPrueba][k] * modeloFinal.Q[i][k]
+        }
+        recomendaciones = append(recomendaciones, Recomendacion{ItemID: i, Puntaje: prediccion})
+    }
+
+    // 3. Ordenar y mostrar Top 5
+    sort.Slice(recomendaciones, func(i, j int) bool {
+        return recomendaciones[i].Puntaje > recomendaciones[j].Puntaje
+    })
+
+    for i := 0; i < 5 && i < len(recomendaciones); i++ {
+        rec := recomendaciones[i]
+        productoReal := catalogo[rec.ItemID]
+        fmt.Printf("Top %d | Afinidad: %8.4f | Producto: %-35s | Marca: %s\n", 
+            i+1, rec.Puntaje, productoReal.Nombre, productoReal.Marca)
+    }
 
 
 }
-
 
 // EntrenarSecuencial procesa la matriz en un solo hilo (One-by-One)
 func EntrenarSecuencial(m *Modelo, interacciones []Interaction) {
-	for _, obs := range interacciones {
-		actualizarFactores(m, obs)
-	}
+    for epoca := 1; epoca <= Epochs; epoca++ {
+        for _, obs := range interacciones {
+            actualizarFactores(m, obs)
+        }
+    }
 }
 
-// EntrenarConcurrente optimizado con procesamiento por Lotes (Chunking)
-func EntrenarConcurrente(m *Modelo, interacciones []Interaction, numWorkers int) {
-	var wg sync.WaitGroup
+func EntrenarConcurrente(m *Modelo, datos []Interaction, numWorkers int) {
+    chunkSize := 50000 // Tamaño del lote para amortizar la sobrecarga
+    numChunks := (len(datos) + chunkSize - 1) / chunkSize
 
-	chunkSize := 50000 // Tamaño del lote para amortizar la sobrecarga 
-	numChunks := (len(interacciones) + chunkSize - 1) / chunkSize
+    // Bucle de épocas envolviendo el proceso
+    for epoca := 1; epoca <= Epochs; epoca++ {
+        
+        var wg sync.WaitGroup
+        canalLotes := make(chan []Interaction, numChunks)
 
-	// transporte por paquetes de interacciones
-	canalLotes := make(chan []Interaction, numChunks)
+        // Lanzamos los workers
+        for w := 0; w < numWorkers; w++ {
+            wg.Add(1)
+            go func() {
+                defer wg.Done()
+                for lote := range canalLotes {
+                    for _, obs := range lote {
+                        actualizarFactoresConcurrente(m, obs) 
+                    }
+                }
+            }()
+        }
 
-	// Lanzamos los Workers
-	for i := 0; i < numWorkers; i++ {
-		wg.Add(1)
-		go func(workerID int) {
-			defer wg.Done()
-			// El worker toma un paquete entero y lo procesa internamente
-			for lote := range canalLotes {
-				for _, obs := range lote {
-					actualizarFactoresConcurrente(m, obs)
-				}
-			}
-		}(i)
-	}
-
-	// Partimos el arreglo gigante en pequeños lotes y enviamos al canal
-	for i := 0; i < len(interacciones); i += chunkSize {
-		fin := i + chunkSize
-		if fin > len(interacciones) {
-			fin = len(interacciones)
-		}
-		canalLotes <- interacciones[i:fin] // Enviamos la referencia al lote
-	}
-	close(canalLotes)
-
-	// Esperar a que todos los Workers terminen
-	wg.Wait()
+        // Enviamos los datos divididos en lotes
+        for i := 0; i < len(datos); i += chunkSize {
+            fin := i + chunkSize
+            if fin > len(datos) {
+                fin = len(datos)
+            }
+            canalLotes <- datos[i:fin]
+        }
+        close(canalLotes)
+        wg.Wait()
+        
+        //fmt.Printf("Época %d/%d completada\n", epoca, Epochs)
+    }
 }
 
 
@@ -254,26 +267,27 @@ func actualizarFactoresConcurrente(m *Modelo, obs Interaction) {
 	m.ItemMutexes[i].Unlock()
 }
 
-// Utilidades para inicializar matrices y cargar CSV
 func inicializarModelo(nUsers, nItems int) *Modelo {
-	m := &Modelo{
-		P:           make([][]float64, nUsers),
-		Q:           make([][]float64, nItems),
-		ItemMutexes: make([]sync.Mutex, nItems),
-	}
-	for i := 0; i < nUsers; i++ {
-		m.P[i] = make([]float64, LatentFeatures)
-		for k := range m.P[i] {
-			m.P[i][k] = rand.Float64()
-		}
-	}
-	for i := 0; i < nItems; i++ {
-		m.Q[i] = make([]float64, LatentFeatures)
-		for k := range m.Q[i] {
-			m.Q[i][k] = rand.Float64()
-		}
-	}
-	return m
+    m := &Modelo{
+        P:           make([][]float64, nUsers),
+        Q:           make([][]float64, nItems),
+        ItemMutexes: make([]sync.Mutex, nItems),
+    }
+    for i := 0; i < nUsers; i++ {
+        m.P[i] = make([]float64, LatentFeatures)
+        for k := range m.P[i] {
+            // Inicialización centrada en 0 con varianza baja
+            m.P[i][k] = (rand.Float64() - 0.5) * 0.1 
+        }
+    }
+    for i := 0; i < nItems; i++ {
+        m.Q[i] = make([]float64, LatentFeatures)
+        for k := range m.Q[i] {
+            // Inicialización centrada en 0 con varianza baja
+            m.Q[i][k] = (rand.Float64() - 0.5) * 0.1 
+        }
+    }
+    return m
 }
 
 func cargarCSV(ruta string, total int) []Interaction {
@@ -321,7 +335,7 @@ func cargarCatalogo(filename string) map[int]Producto {
 		if i == 0 {
 			continue
 		}
-		// Convertir el ID de string a entero
+
 		id, _ := strconv.Atoi(linea[0]) 
 		
 		catalogo[id] = Producto{
