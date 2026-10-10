@@ -1,5 +1,9 @@
 {
-  "n_users": 202775,
-  "n_items": 31351,
-  "n_interactions": 13129246
+  "n_users": 37373,
+  "n_items": 1301,
+  "n_interactions": 1711253,
+  "densidad": 0.035195,
+  "min_compras_usuario": 10,
+  "min_compras_producto": 50,
+  "fuente": "sintetico_supermercado_pe"
 }

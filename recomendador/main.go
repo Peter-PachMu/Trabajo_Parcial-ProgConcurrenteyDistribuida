@@ -30,7 +30,7 @@ type Interaction struct {
 // Constantes matemáticas del Descenso de Gradiente (SGD)
 const (
 	LatentFeatures = 10     // Dimensión de los factores latentes (K)
-	LearningRate   = 0.01   // Alpha
+	LearningRate   = 0.0005 // Alpha
 	Regularization = 0.05   // Lambda (para evitar overfitting)
 )
 
@@ -53,13 +53,15 @@ func main() {
 	json.NewDecoder(metaFile).Decode(&meta)
 	fmt.Printf("Metadata: %d Usuarios, %d Ítems, %d Interacciones\n", meta.NUsers, meta.NItems, meta.NInteractions)
 
-	interacciones := cargarCSV("instacart_matriz_limpia.csv", meta.NInteractions)
+	interacciones := cargarCSV("matriz_limpia.csv", meta.NInteractions)
 	numWorkers := 12
 	repeticiones := 10
 
 	var tiemposSecuencial []float64
 	var tiemposConcurrente []float64
 	var speedups []float64
+
+	var modeloFinal *Modelo
 
 	fmt.Println("\n--- Iniciando Bateria de Pruebas (10 Ejecuciones) ---")
 	fmt.Printf("%-10s | %-20s | %-20s | %-10s\n", "Ejecución", "T. Secuencial (ms)", "T. Concurrente (ms)", "Speedup")
@@ -85,6 +87,8 @@ func main() {
 		speedups = append(speedups, sp)
 
 		fmt.Printf("%-10d | %-20.2f | %-20.2f | %-10.2fx\n", iter, tSec, tConc, sp)
+
+		modeloFinal = modeloConc
 	}
 
 	// CÁLCULO DE MEDIA RECORTADA (Descartar el peor y el mejor caso)
@@ -112,6 +116,48 @@ func main() {
 	fmt.Printf("Media Recortada Concurrente: %.2f ms\n", mediaRecConc)
 	fmt.Printf("Speedup Global Estabilizado: %.2fx\n", mediaRecSp)
 	fmt.Println("=======================================================================")
+
+	//FASE DE PREDICCION 
+	
+	catalogo := cargarCatalogo("productos_mapeados.csv")
+
+	fmt.Println("\n=======================================================================")
+	fmt.Println("             PREDICCIONES PARA EL MERCADO PERUANO         ")
+	fmt.Println("=======================================================================")
+
+	usuarioPrueba := 0 //Seleccionamos el usuario
+	fmt.Printf("Generando recomendaciones predictivas para el Usuario %d...\n\n", usuarioPrueba)
+
+	// Estructura temporal para ordenar los puntajes
+	type Recomendacion struct {
+		ItemID  int
+		Puntaje float64
+	}
+	var recomendaciones []Recomendacion
+
+	// Calculo de la afinidad entre el usuario y todos los ítems
+	for i := 0; i < len(modeloFinal.Q); i++ {
+		var prediccion float64
+		for k := 0; k < LatentFeatures; k++ {
+			prediccion += modeloFinal.P[usuarioPrueba][k] * modeloFinal.Q[i][k]
+		}
+		recomendaciones = append(recomendaciones, Recomendacion{ItemID: i, Puntaje: prediccion})
+	}
+
+	// Ordena la lista de productos de mayor a menor puntaje predictivo
+	sort.Slice(recomendaciones, func(i, j int) bool {
+		return recomendaciones[i].Puntaje > recomendaciones[j].Puntaje
+	})
+
+	// Top 5 cruzando el ID con el catalogo
+	for i := 0; i < 5; i++ {
+		rec := recomendaciones[i]
+		productoReal := catalogo[rec.ItemID]
+		fmt.Printf("Top %d | Afinidad: %.4f | Producto: %-35s | Marca: %s\n", 
+			i+1, rec.Puntaje, productoReal.Nombre, productoReal.Marca)
+	}
+
+
 }
 
 
@@ -248,4 +294,40 @@ func cargarCSV(ruta string, total int) []Interaction {
 		interacciones = append(interacciones, Interaction{UserIndex: u, ItemIndex: i, Rating: r})
 	}
 	return interacciones
+}
+
+// Estructura para almacenar el nombre y la marca del producto
+type Producto struct {
+	Nombre string
+	Marca  string
+}
+
+func cargarCatalogo(filename string) map[int]Producto {
+	file, err := os.Open(filename)
+	if err != nil {
+		log.Fatalf("Error abriendo catalogo: %v", err)
+	}
+	defer file.Close()
+
+	reader := csv.NewReader(file)
+	lineas, err := reader.ReadAll()
+	if err != nil {
+		log.Fatalf("Error leyendo catalogo: %v", err)
+	}
+
+	catalogo := make(map[int]Producto)
+	
+	for i, linea := range lineas {
+		if i == 0 {
+			continue
+		}
+		// Convertir el ID de string a entero
+		id, _ := strconv.Atoi(linea[0]) 
+		
+		catalogo[id] = Producto{
+			Nombre: linea[1], // Columna product_name
+			Marca:  linea[3], // Columna marca
+		}
+	}
+	return catalogo
 }

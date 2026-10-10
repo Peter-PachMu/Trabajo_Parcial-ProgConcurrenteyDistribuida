@@ -1,0 +1,1302 @@
+item_index,product_name,categoria,marca,precio_pen
+0,Nuggets de Pollo San Fernando Bolsa 300 g,Congelados,San Fernando,12.2
+1,Papilla Cerelac Quinua Tarro 400 g,Bebés,Cerelac,15.2
+2,Choclo x Unidad,Frutas y Verduras,Sin marca,1.9
+3,Néctar Cifrut Durazno Caja 1 L,Bebidas,Cifrut,4.2
+4,Huevos Pardos Marca Propia Bandeja x30,Lácteos y Huevos,Marca Propia,13.0
+5,Mazamorra Morada Marca Propia Caja 160 g,Abarrotes,Marca Propia,3.1
+6,Detergente Líquido Ariel Botella 1.8 L,Limpieza del Hogar,Ariel,31.0
+7,Fideo Instantáneo Maruchan Carne Vaso 65 g,Abarrotes,Maruchan,2.7
+8,Leche en Polvo Nido Tarro 400 g,Lácteos y Huevos,Nido,22.5
+9,Galletas Dulces Field Vainilla Paquete x6 Unidades,Panadería y Galletas,Field,4.0
+10,Queso Parmesano Rallado Bella Holandesa Bolsa 100 g,Lácteos y Huevos,Bella Holandesa,10.1
+11,Néctar Frugos Mango Caja 200 mL,Bebidas,Frugos,1.3
+12,Té Hornimans Negro Caja x25 Sobres,Abarrotes,Hornimans,6.6
+13,Papel Higiénico Elite Pack x4 Rollos,Limpieza del Hogar,Elite,10.5
+14,Chocolate Premium Importado Blanco Barra 100 g,Snacks y Golosinas,Importado,15.7
+15,Fideos Spaghetti Molitalia Bolsa 500 g,Abarrotes,Molitalia,3.3
+16,Frijol Canario Costeño Bolsa 500 g,Abarrotes,Costeño,6.3
+17,Yogurt Pura Vida Durazno Vaso 150 g,Lácteos y Huevos,Pura Vida,2.8
+18,Leche Evaporada Ideal Pack x6 Latas 395 g,Lácteos y Huevos,Ideal,19.7
+19,Aceite Vegetal Cocinero Botella 1 L,Abarrotes,Cocinero,9.0
+20,Pan de Yema x Kg,Panadería y Galletas,Sin marca,10.4
+21,Ají Limo x Kg,Frutas y Verduras,Sin marca,14.3
+22,Aceite de Oliva Extra Virgen Olivos Botella 500 mL,Abarrotes,Olivos,31.2
+23,Queso Edam Laive Bloque 250 g,Lácteos y Huevos,Laive,11.4
+24,Toallas Higiénicas Always Paquete x16,Cuidado Personal,Always,8.7
+25,Galletas Dulces Ritz Vainilla Paquete x6 Unidades,Panadería y Galletas,Ritz,3.5
+26,Pimienta Molida Alacena Sachet 20 g,Abarrotes,Alacena,1.8
+27,Kión en Polvo Alacena Sachet 20 g,Abarrotes,Alacena,2.5
+28,Pisco Biondi Quebranta Botella 750 mL,Licores,Biondi,40.8
+29,Atún Marca Propia Filete en Aceite Lata 170 g,Abarrotes,Marca Propia,4.7
+30,Agua Mineral San Mateo Sin Gas Pack x6 Botellas 625 mL,Bebidas,San Mateo,11.6
+31,Queso Mozzarella Gloria Bolsa 500 g,Lácteos y Huevos,Gloria,17.6
+32,Durazno x Kg,Frutas y Verduras,Sin marca,8.0
+33,Pierna de Pollo Marca Propia x Kg,"Carnes, Aves y Pescados",Marca Propia,11.2
+34,Yogurt Gloria Cereal Botella 1 L,Lácteos y Huevos,Gloria,7.9
+35,Arroz Extra Marca Propia Bolsa 750 g,Abarrotes,Marca Propia,4.0
+36,Néctar Cifrut Piña Caja 1 L,Bebidas,Cifrut,4.5
+37,Detergente en Polvo Marca Propia Bolsa 4 Kg,Limpieza del Hogar,Marca Propia,35.6
+38,Frijol Castilla Costeño Bolsa 1 Kg,Abarrotes,Costeño,12.8
+39,Néctar Cifrut Piña Caja 200 mL,Bebidas,Cifrut,1.4
+40,Galletas Soda Field Paquete x6 Unidades,Panadería y Galletas,Field,3.3
+41,Café Instantáneo Altomayo Clásico Frasco 100 g,Abarrotes,Altomayo,18.7
+42,Fórmula Infantil NAN Etapa 2 Tarro 400 g,Bebés,NAN,69.8
+43,Bebida Rehidratante Powerade Frutas Tropicales Botella 1 L,Bebidas,Powerade,8.0
+44,Pañales Huggies Talla XG Pack x50,Bebés,Huggies,66.4
+45,Ajo Pelado x Kg,Frutas y Verduras,Sin marca,17.2
+46,Arroz Extra Valle Norte Bolsa 5 Kg,Abarrotes,Valle Norte,25.0
+47,Sardina Campomar Lata 425 g,Abarrotes,Campomar,5.6
+48,Sazonador Sibarita Sachet 100 g,Abarrotes,Sibarita,3.1
+49,Yogurt Bella Holandesa Plátano Botella 1 L,Lácteos y Huevos,Bella Holandesa,9.0
+50,Néctar Cifrut Mango Caja 200 mL,Bebidas,Cifrut,1.2
+51,Lenteja Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,14.1
+52,Azúcar Rubia Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,4.2
+53,Papel Higiénico Suave Pack x12 Rollos,Limpieza del Hogar,Suave,18.7
+54,Maní Salado Karinto Bolsa 200 g,Snacks y Golosinas,Karinto,4.0
+55,Sopa Instantánea Maggi Verduras Sobre 70 g,Abarrotes,Maggi,2.6
+56,Naranja de Jugo x Kg,Frutas y Verduras,Sin marca,3.4
+57,Lavavajilla Sapolio Limón Pote 900 g,Limpieza del Hogar,Sapolio,14.2
+58,Infusión de Manzanilla Herbi Caja x25 Sobres,Abarrotes,Herbi,3.5
+59,Infusión de Hierba Luisa Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.3
+60,Protector Solar Banana Boat Frasco 120 mL,Cuidado Personal,Banana Boat,37.7
+61,Snack para Perro Mimaskot Bolsa 200 g,Mascotas,Mimaskot,11.7
+62,Ambientador Glade Lavanda Aerosol 360 mL,Limpieza del Hogar,Glade,11.3
+63,Pisco Biondi Mosto Verde Botella 750 mL,Licores,Biondi,42.6
+64,Fideos Codo Don Vittorio Bolsa 500 g,Abarrotes,Don Vittorio,4.0
+65,Aceite Vegetal Cocinero Botella 3 L,Abarrotes,Cocinero,25.4
+66,Bebida Rehidratante Sporade Limón Botella 1 L,Bebidas,Sporade,5.7
+67,Jamonada Otto Kunz Paquete 200 g,Embutidos,Otto Kunz,5.4
+68,Papas Fritas Marca Propia Queso Bolsa 40 g,Snacks y Golosinas,Marca Propia,1.9
+69,Infusión de Anís McColin's Caja x25 Sobres,Abarrotes,McColin's,2.8
+70,Fideo Instantáneo Nissin Carne Vaso 65 g,Abarrotes,Nissin,3.6
+71,Salsa de Soya Marca Propia Botella 150 mL,Abarrotes,Marca Propia,5.0
+72,Hot Dog Braedt Clásico Paquete 220 g,Embutidos,Braedt,7.1
+73,Suavizante Marca Propia Botella 1 L,Limpieza del Hogar,Marca Propia,9.7
+74,Cerveza Pilsen Callao Lata 473 mL,Licores,Pilsen Callao,5.3
+75,Torta Helada Marca Propia Chocolate Unidad 1 Kg,Panadería y Galletas,Marca Propia,29.0
+76,Desodorante Dove Roll-on 50 mL,Cuidado Personal,Dove,9.8
+77,Aceite Vegetal Primor Botella 1 L,Abarrotes,Primor,8.5
+78,Ají Panca Molido Sibarita Sachet 20 g,Abarrotes,Sibarita,2.6
+79,Refresco en Polvo Kanu Limonada Sobre 25 g,Bebidas,Kanu,0.9
+80,Agua Mineral San Mateo Con Gas Pack x6 Botellas 625 mL,Bebidas,San Mateo,11.5
+81,Gaseosa Sprite Lata 355 mL,Bebidas,Sprite,2.2
+82,Galletas Dulces Field Rellenas Paquete x6 Unidades,Panadería y Galletas,Field,4.3
+83,Salsa Picante Tabasco Frasco 60 mL,Abarrotes,Tabasco,6.3
+84,Arroz Extra Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,7.1
+85,Mandarina x Kg,Frutas y Verduras,Sin marca,4.9
+86,Detergente en Polvo Bolívar Bolsa 4 Kg,Limpieza del Hogar,Bolívar,37.4
+87,Alimento para Cachorro Pedigree Bolsa 8 Kg,Mascotas,Pedigree,81.2
+88,Ambientador Poett Vainilla Aerosol 360 mL,Limpieza del Hogar,Poett,11.8
+89,Gaseosa Guaraná Pack x6 Latas 355 mL,Bebidas,Guaraná,12.3
+90,Queso Mozzarella Laive Bolsa 250 g,Lácteos y Huevos,Laive,10.7
+91,Pulpa de Res x Kg,"Carnes, Aves y Pescados",Sin marca,32.9
+92,Haba Seca Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,5.5
+93,Pasas Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,7.4
+94,Leche UHT Entera Pura Vida Pack x6 Cajas 1 L,Lácteos y Huevos,Pura Vida,32.6
+95,Alitas de Pollo Redondos x Kg,"Carnes, Aves y Pescados",Redondos,16.5
+96,Jamón Otto Kunz Paquete 200 g,Embutidos,Otto Kunz,9.5
+97,Cerveza Cristal Botella 630 mL,Licores,Cristal,6.0
+98,Garbanzo Costeño Bolsa 1 Kg,Abarrotes,Costeño,13.5
+99,Galletas Dulces Ritz Rellenas Paquete x12 Unidades,Panadería y Galletas,Ritz,5.9
+100,Huevos Blancos La Calera Bandeja x30,Lácteos y Huevos,La Calera,14.6
+101,Papas Fritas Lay's Queso Bolsa 40 g,Snacks y Golosinas,Lay's,1.9
+102,Chocolate en Polvo Milo Bolsa 200 g,Abarrotes,Milo,8.9
+103,Azúcar Rubia Laredo Bolsa 1 Kg,Abarrotes,Laredo,5.6
+104,Cereal de Maíz Kellogg's Chocolate Caja 250 g,Abarrotes,Kellogg's,8.2
+105,Fórmula Infantil Similac Etapa 3 Tarro 400 g,Bebés,Similac,78.0
+106,Ají en Pasta Tarí Panca Doypack 200 g,Abarrotes,Tarí,5.7
+107,Papel Higiénico Marca Propia Pack x4 Rollos,Limpieza del Hogar,Marca Propia,7.3
+108,Papel Toalla Suave Pack x2 Rollos,Limpieza del Hogar,Suave,6.0
+109,Leche en Polvo Anchor Bolsa 800 g,Lácteos y Huevos,Anchor,36.8
+110,Vainita x Kg,Frutas y Verduras,Sin marca,5.4
+111,Tocino Ahumado Otto Kunz Paquete 200 g,Embutidos,Otto Kunz,13.5
+112,Caramelos Ambrosoli Frutas Bolsa 100 g,Snacks y Golosinas,Ambrosoli,2.9
+113,Mayonesa Alacena Doypack 400 g,Abarrotes,Alacena,8.8
+114,Yogurt Bella Holandesa Cereal Botella 1 L,Lácteos y Huevos,Bella Holandesa,8.6
+115,Papel Higiénico Marca Propia Pack x24 Rollos,Limpieza del Hogar,Marca Propia,37.2
+116,Pisco Tabernero Acholado Botella 750 mL,Licores,Tabernero,57.3
+117,Pan de Molde Marca Propia Integral Bolsa 600 g,Panadería y Galletas,Marca Propia,7.6
+118,Caramelos Halls Miel Bolsa 100 g,Snacks y Golosinas,Halls,3.0
+119,Infusión de Anís Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.5
+120,Pisco Queirolo Quebranta Botella 750 mL,Licores,Queirolo,53.2
+121,Fideo Instantáneo Ajinomen Mariscos Sobre 85 g,Abarrotes,Ajinomen,1.7
+122,Papa Blanca x Kg,Frutas y Verduras,Sin marca,3.5
+123,Protector Solar Nivea Frasco 120 mL,Cuidado Personal,Nivea,40.8
+124,Yogurt Pura Vida Vainilla Vaso 150 g,Lácteos y Huevos,Pura Vida,2.5
+125,Pizza Congelada Marca Propia Pepperoni Unidad 400 g,Congelados,Marca Propia,14.7
+126,Helado Marca Propia Fresa Pote 2.8 L,Congelados,Marca Propia,30.0
+127,Pizza Congelada Marca Propia Americana Unidad 400 g,Congelados,Marca Propia,14.7
+128,Helado Marca Propia Vainilla Pote 1 L,Congelados,Marca Propia,13.2
+129,Galletas Dulces Oreo Vainilla Paquete x12 Unidades,Panadería y Galletas,Oreo,7.3
+130,Yogurt Pura Vida Cereal Vaso 150 g,Lácteos y Huevos,Pura Vida,2.6
+131,Galletas Dulces Ritz Chocolate Paquete x6 Unidades,Panadería y Galletas,Ritz,3.5
+132,Torta Helada Marca Propia Tres Leches Unidad 1 Kg,Panadería y Galletas,Marca Propia,28.5
+133,Huevos Blancos Marca Propia Pack x12,Lácteos y Huevos,Marca Propia,5.6
+134,Avena en Hojuelas Marca Propia Bolsa 300 g,Abarrotes,Marca Propia,2.9
+135,Caldo de Gallina Maggi Caja x12 Cubos,Abarrotes,Maggi,5.9
+136,Azúcar Blanca Laredo Bolsa 1 Kg,Abarrotes,Laredo,5.7
+137,Helado Laive Lúcuma Pote 2.8 L,Congelados,Laive,35.7
+138,Queso Provolone Importado Cuña 200 g,Lácteos y Huevos,Importado,50.8
+139,Azúcar Blanca Marca Propia Bolsa 5 Kg,Abarrotes,Marca Propia,18.9
+140,Leche Chocolatada Gloria Caja 200 mL,Bebidas,Gloria,2.7
+141,Haba Seca Costeño Bolsa 1 Kg,Abarrotes,Costeño,9.9
+142,Refresco en Polvo Marca Propia Maracuyá Sobre 25 g,Bebidas,Marca Propia,0.7
+143,Sopa Instantánea Knorr Pollo Sobre 70 g,Abarrotes,Knorr,2.2
+144,Camote Morado x Kg,Frutas y Verduras,Sin marca,4.6
+145,Gelatina Marca Propia Cereza Caja 140 g,Abarrotes,Marca Propia,2.2
+146,Lomo Fino x Kg,"Carnes, Aves y Pescados",Sin marca,46.2
+147,Gaseosa Kola Real Botella 3 L,Bebidas,Kola Real,13.5
+148,Compota Nestlé Pollo con Verduras Pote 113 g,Bebés,Nestlé,3.4
+149,Leche en Polvo Gloria Tarro 400 g,Lácteos y Huevos,Gloria,22.7
+150,Sal de Mesa Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,1.8
+151,Suavizante Downy Doypack 800 mL,Limpieza del Hogar,Downy,6.4
+152,Papel Higiénico Paracas Pack x24 Rollos,Limpieza del Hogar,Paracas,37.9
+153,Yogurt Griego Gloria Natural Vaso 140 g,Lácteos y Huevos,Gloria,3.7
+154,Néctar Pulp Mango Caja 200 mL,Bebidas,Pulp,1.7
+155,Acondicionador Sedal Botella 400 mL,Cuidado Personal,Sedal,14.7
+156,Chocolate en Barra Sublime Pack x6 Unidades,Snacks y Golosinas,Sublime,7.3
+157,Yogurt Laive Lúcuma Botella 1 L,Lácteos y Huevos,Laive,5.9
+158,Limpiatodo Poett Pino Botella 900 mL,Limpieza del Hogar,Poett,5.6
+159,Galletas Dulces Ritz Chocolate Paquete x12 Unidades,Panadería y Galletas,Ritz,6.1
+160,Hamburguesas Marca Propia Caja x4,Congelados,Marca Propia,10.3
+161,Jabón de Tocador Dove Pack x3,Cuidado Personal,Dove,9.9
+162,Hot Dog Otto Kunz Cocktail Paquete 220 g,Embutidos,Otto Kunz,4.7
+163,Zapallo Macre x Kg,Frutas y Verduras,Sin marca,3.0
+164,Pera x Kg,Frutas y Verduras,Sin marca,6.5
+165,Pasta Dental Colgate Tubo 75 mL,Cuidado Personal,Colgate,5.1
+166,Cerveza Heineken Botella 630 mL,Licores,Heineken,6.1
+167,Limpiatodo Marca Propia Lavanda Botella 900 mL,Limpieza del Hogar,Marca Propia,5.1
+168,Pasta Dental Kolynos Tubo 150 mL,Cuidado Personal,Kolynos,11.2
+169,Jamón Braedt Paquete 500 g,Embutidos,Braedt,24.7
+170,Papas Fritas Pringles Pollo Bolsa 140 g,Snacks y Golosinas,Pringles,8.0
+171,Aceite Vegetal Primor Botella 900 mL,Abarrotes,Primor,8.5
+172,Croissant x Unidad,Panadería y Galletas,Sin marca,2.6
+173,Salsa Picante Alacena Frasco 60 mL,Abarrotes,Alacena,8.0
+174,Carne Molida Especial x Kg,"Carnes, Aves y Pescados",Sin marca,26.8
+175,Galletas Dulces Ritz Coco Paquete x12 Unidades,Panadería y Galletas,Ritz,6.5
+176,Jamón Otto Kunz Paquete 500 g,Embutidos,Otto Kunz,20.1
+177,Hot Dog Otto Kunz Clásico Paquete 450 g,Embutidos,Otto Kunz,8.4
+178,Cerveza Brahma Pack x6 Latas 473 mL,Licores,Brahma,23.9
+179,Queso Camembert Importado Cuña 200 g,Lácteos y Huevos,Importado,44.7
+180,Leche UHT Entera Laive Pack x6 Cajas 1 L,Lácteos y Huevos,Laive,34.1
+181,Mantequilla Laive Barra 200 g,Lácteos y Huevos,Laive,9.4
+182,Papel Higiénico Elite Pack x12 Rollos,Limpieza del Hogar,Elite,27.1
+183,Papas Fritas Congeladas Marca Propia Bolsa 1 Kg,Congelados,Marca Propia,12.8
+184,Fórmula Infantil NAN Etapa 3 Tarro 400 g,Bebés,NAN,72.2
+185,Pierna de Cerdo x Kg,"Carnes, Aves y Pescados",Sin marca,21.0
+186,Atún Marca Propia Filete en Aceite Lata 140 g,Abarrotes,Marca Propia,4.3
+187,Cerveza Brahma Botella 630 mL,Licores,Brahma,5.8
+188,Papel Higiénico Noble Pack x24 Rollos,Limpieza del Hogar,Noble,50.9
+189,Cerveza Heineken Lata 473 mL,Licores,Heineken,4.8
+190,Pan para Hot Dog Marca Propia Bolsa x6,Panadería y Galletas,Marca Propia,5.8
+191,Whisky Old Parr Botella 750 mL,Licores,Old Parr,105.3
+192,Agua Mineral Cielo Con Gas Pack x6 Botellas 625 mL,Bebidas,Cielo,12.1
+193,Leche UHT Deslactosada Pura Vida Pack x6 Cajas 1 L,Lácteos y Huevos,Pura Vida,44.2
+194,Ambientador Poett Brisa Marina Aerosol 360 mL,Limpieza del Hogar,Poett,11.1
+195,Leche Descremada Laive Caja 1 L,Lácteos y Huevos,Laive,4.4
+196,Shampoo Dove Sachet 12 mL,Cuidado Personal,Dove,2.2
+197,Atún Campomar Filete en Aceite Lata 140 g,Abarrotes,Campomar,6.4
+198,Galletas Dulces Costa Chocolate Paquete x12 Unidades,Panadería y Galletas,Costa,6.0
+199,Atún Primor Desmenuzado Lata 140 g,Abarrotes,Primor,4.6
+200,Frijol Canario Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,5.8
+201,Yogurt Gloria Cereal Vaso 150 g,Lácteos y Huevos,Gloria,2.8
+202,Helado D'Onofrio Fresa Pote 1 L,Congelados,D'Onofrio,13.4
+203,Refresco en Polvo Tang Limonada Sobre 25 g,Bebidas,Tang,0.8
+204,Camarón x Kg,"Carnes, Aves y Pescados",Sin marca,38.7
+205,Plátano de Seda x Kg,Frutas y Verduras,Sin marca,3.7
+206,Helado Laive Chocolate Pote 2.8 L,Congelados,Laive,35.0
+207,Durazno en Almíbar Fanny Lata 820 g,Abarrotes,Fanny,8.8
+208,Bebida de Soya Soy Vida Caja 1 L,Lácteos y Huevos,Soy Vida,5.4
+209,Jabón de Tocador Camay Unidad 90 g,Cuidado Personal,Camay,3.6
+210,Leche UHT Deslactosada Pura Vida Caja 1 L,Lácteos y Huevos,Pura Vida,7.7
+211,Café Instantáneo Altomayo Clásico Frasco 50 g,Abarrotes,Altomayo,11.6
+212,Vino Intipalka Tinto Botella 750 mL,Licores,Intipalka,30.2
+213,Leche Evaporada Nestlé Lata 395 g,Lácteos y Huevos,Nestlé,3.7
+214,Agua Mineral Cielo Con Gas Bidón 7 L,Bebidas,Cielo,5.7
+215,Pechuga de Pollo Redondos Bandeja 500 g,"Carnes, Aves y Pescados",Redondos,10.9
+216,Desodorante Rexona Aerosol 150 mL,Cuidado Personal,Rexona,20.2
+217,Huevos Pardos San Fernando Bandeja x30,Lácteos y Huevos,San Fernando,14.0
+218,Infusión de Manzanilla con Anís Herbi Caja x25 Sobres,Abarrotes,Herbi,3.4
+219,Alimento para Gato Whiskas Bolsa 3 Kg,Mascotas,Whiskas,49.9
+220,Néctar Gloria Piña Caja 1 L,Bebidas,Gloria,5.9
+221,Fideos Spaghetti Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,3.5
+222,Caballa Campomar al Natural Lata 425 g,Abarrotes,Campomar,8.8
+223,Néctar Pulp Durazno Caja 1 L,Bebidas,Pulp,6.1
+224,Detergente en Polvo Ariel Bolsa 2 Kg,Limpieza del Hogar,Ariel,20.6
+225,Queso Fresco Laive Paquete 500 g,Lácteos y Huevos,Laive,17.4
+226,Helado Laive Coco Pote 1 L,Congelados,Laive,14.1
+227,Arroz Extra Costeño Bolsa 5 Kg,Abarrotes,Costeño,18.3
+228,Azúcar Rubia Paramonga Bolsa 5 Kg,Abarrotes,Paramonga,20.1
+229,Mayonesa Hellmann's Doypack 400 g,Abarrotes,Hellmann's,6.9
+230,Galletas Dulces Oreo Coco Paquete x12 Unidades,Panadería y Galletas,Oreo,7.0
+231,Caramelos Ambrosoli Menta Bolsa 100 g,Snacks y Golosinas,Ambrosoli,3.0
+232,Yogurt Griego Bella Holandesa Arándano Vaso 140 g,Lácteos y Huevos,Bella Holandesa,4.0
+233,Filete de Pechuga Redondos Bandeja 500 g,"Carnes, Aves y Pescados",Redondos,12.8
+234,Sopa Instantánea Knorr Criolla Sobre 70 g,Abarrotes,Knorr,2.0
+235,Helado Laive Vainilla Pote 2.8 L,Congelados,Laive,32.5
+236,Bebida Rehidratante Powerade Limón Botella 1 L,Bebidas,Powerade,7.9
+237,Pallares Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,7.3
+238,Chicle Trident Paquete x12 Unidades,Snacks y Golosinas,Trident,3.9
+239,Pasta Dental Oral-B Tubo 75 mL,Cuidado Personal,Oral-B,6.2
+240,Pierna de Pollo Redondos x Kg,"Carnes, Aves y Pescados",Redondos,10.9
+241,Galletas Dulces Field Coco Paquete x6 Unidades,Panadería y Galletas,Field,4.0
+242,Alimento para Gato Cat Chow Bolsa 3 Kg,Mascotas,Cat Chow,48.0
+243,Arveja Partida Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,11.3
+244,Gomitas Haribo Bolsa 100 g,Snacks y Golosinas,Haribo,4.6
+245,Alimento para Perro Adulto Mimaskot Bolsa 8 Kg,Mascotas,Mimaskot,65.5
+246,Chocolate en Barra Triángulo Unidad 30 g,Snacks y Golosinas,Triángulo,1.4
+247,Whisky Johnnie Walker Botella 750 mL,Licores,Johnnie Walker,87.3
+248,Helado Laive Fresa Vasito 120 mL,Congelados,Laive,4.1
+249,Galletas Dulces Costa Rellenas Paquete x6 Unidades,Panadería y Galletas,Costa,3.4
+250,Néctar Frugos Durazno Caja 200 mL,Bebidas,Frugos,1.5
+251,Néctar Pulp Naranja Caja 1 L,Bebidas,Pulp,6.3
+252,Leche UHT Entera Pura Vida Caja 1 L,Lácteos y Huevos,Pura Vida,6.1
+253,Pechuga de Pollo San Fernando Bandeja 500 g,"Carnes, Aves y Pescados",San Fernando,8.3
+254,Limpiatodo Poett Lavanda Botella 900 mL,Limpieza del Hogar,Poett,5.5
+255,Gaseosa Coca-Cola Botella 3 L,Bebidas,Coca-Cola,12.9
+256,Yogurt Griego Laive Fresa Vaso 140 g,Lácteos y Huevos,Laive,4.1
+257,Avena en Hojuelas Quaker Bolsa 500 g,Abarrotes,Quaker,6.2
+258,Pan Integral x Kg,Panadería y Galletas,Sin marca,11.0
+259,Galletas Dulces Field Vainilla Paquete x12 Unidades,Panadería y Galletas,Field,7.0
+260,Mantequilla Bella Holandesa Barra 200 g,Lácteos y Huevos,Bella Holandesa,12.0
+261,Hot Dog Otto Kunz Clásico Paquete 220 g,Embutidos,Otto Kunz,4.6
+262,Shampoo para Bebé Marca Propia Botella 200 mL,Bebés,Marca Propia,10.3
+263,Costillar de Cerdo x Kg,"Carnes, Aves y Pescados",Sin marca,23.2
+264,Galletas Dulces Costa Rellenas Paquete x12 Unidades,Panadería y Galletas,Costa,6.0
+265,Pallares Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,12.6
+266,Pan Francés x Kg,Panadería y Galletas,Sin marca,8.8
+267,Almendras Cuisine & Co Bolsa 200 g,Abarrotes,Cuisine & Co,16.6
+268,Infusión de Muña Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.4
+269,Queque Bimbo Chocolate Paquete 250 g,Panadería y Galletas,Bimbo,6.1
+270,Betarraga x Kg,Frutas y Verduras,Sin marca,3.2
+271,Yogurt Gloria Plátano Botella 1 L,Lácteos y Huevos,Gloria,7.9
+272,Pisco Biondi Acholado Botella 750 mL,Licores,Biondi,39.4
+273,Cerveza Pilsen Callao Pack x6 Latas 473 mL,Licores,Pilsen Callao,28.5
+274,Bistec de Res x Kg,"Carnes, Aves y Pescados",Sin marca,32.0
+275,Arroz Extra Costeño Bolsa 1 Kg,Abarrotes,Costeño,5.0
+276,Shampoo Sedal Botella 400 mL,Cuidado Personal,Sedal,19.1
+277,Pierna de Pollo San Fernando x Kg,"Carnes, Aves y Pescados",San Fernando,15.0
+278,Mermelada Gloria Aguaymanto Frasco 300 g,Abarrotes,Gloria,7.8
+279,Harina Preparada Blanca Flor Bolsa 1 Kg,Abarrotes,Blanca Flor,5.1
+280,Alimento para Gato Mimaskot Bolsa 1.5 Kg,Mascotas,Mimaskot,23.0
+281,Alcachofa x Unidad,Frutas y Verduras,Sin marca,3.2
+282,Pisco Portón Acholado Botella 750 mL,Licores,Portón,56.6
+283,Queso Fresco Marca Propia Paquete 250 g,Lácteos y Huevos,Marca Propia,7.6
+284,Lenteja Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,7.6
+285,Fórmula Infantil Similac Etapa 1 Tarro 400 g,Bebés,Similac,86.3
+286,Perejil x Atado,Frutas y Verduras,Sin marca,1.3
+287,Papel Higiénico Paracas Pack x12 Rollos,Limpieza del Hogar,Paracas,18.1
+288,Yogurt Bella Holandesa Lúcuma Vaso 150 g,Lácteos y Huevos,Bella Holandesa,3.2
+289,Queque Fargo Naranja Paquete 250 g,Panadería y Galletas,Fargo,6.1
+290,Agua Mineral Cielo Con Gas Botella 625 mL,Bebidas,Cielo,2.2
+291,Helado D'Onofrio Lúcuma Pote 1 L,Congelados,D'Onofrio,12.9
+292,Fideos Cabello de Ángel Don Vittorio Bolsa 250 g,Abarrotes,Don Vittorio,2.8
+293,Néctar Frugos Manzana Caja 1 L,Bebidas,Frugos,4.6
+294,Cebolla Roja x Kg,Frutas y Verduras,Sin marca,3.8
+295,Detergente en Polvo Opal Bolsa 800 g,Limpieza del Hogar,Opal,12.7
+296,Yogurt Griego Laive Arándano Vaso 140 g,Lácteos y Huevos,Laive,4.2
+297,Helado Laive Vainilla Pote 1 L,Congelados,Laive,13.2
+298,Mermelada Fanny Aguaymanto Frasco 300 g,Abarrotes,Fanny,7.7
+299,Tostadas Field Paquete 200 g,Panadería y Galletas,Field,4.7
+300,Mantequilla Gloria Pote 400 g,Lácteos y Huevos,Gloria,14.6
+301,Queso Andino Marca Propia Paquete 250 g,Lácteos y Huevos,Marca Propia,7.9
+302,Néctar Gloria Piña Caja 200 mL,Bebidas,Gloria,1.9
+303,Chancaca Marca Propia Paquete 500 g,Abarrotes,Marca Propia,4.6
+304,Cerveza Brahma Pack x12 Latas 473 mL,Licores,Brahma,43.2
+305,Chuleta de Cerdo x Kg,"Carnes, Aves y Pescados",Sin marca,22.3
+306,Fideos Canuto Molitalia Bolsa 500 g,Abarrotes,Molitalia,3.8
+307,Huacatay x Atado,Frutas y Verduras,Sin marca,1.0
+308,Leche Evaporada Pura Vida Lata 395 g,Lácteos y Huevos,Pura Vida,5.2
+309,Caramelos Marca Propia Frutas Bolsa 100 g,Snacks y Golosinas,Marca Propia,2.4
+310,Nueces Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,13.0
+311,Bebida Rehidratante Gatorade Naranja Botella 1 L,Bebidas,Gatorade,4.6
+312,Gaseosa Fanta Botella 3 L,Bebidas,Fanta,12.9
+313,Galletas Dulces Ritz Coco Paquete x6 Unidades,Panadería y Galletas,Ritz,3.5
+314,Helado Laive Coco Vasito 120 mL,Congelados,Laive,4.0
+315,Comino Molido Marca Propia Sachet 20 g,Abarrotes,Marca Propia,1.8
+316,Pechuga de Pollo Marca Propia Bandeja 500 g,"Carnes, Aves y Pescados",Marca Propia,8.2
+317,Jabón de Tocador Lux Pack x3,Cuidado Personal,Lux,9.0
+318,Guantes de Limpieza Scotch-Brite Par,Limpieza del Hogar,Scotch-Brite,6.1
+319,Frijol Castilla Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,6.6
+320,Café Molido Kirma Bolsa 250 g,Abarrotes,Kirma,13.9
+321,Queque Bimbo Naranja Paquete 250 g,Panadería y Galletas,Bimbo,5.8
+322,Alimento para Perro Adulto Mimaskot Bolsa 3 Kg,Mascotas,Mimaskot,27.2
+323,Gaseosa Fanta Pack x6 Latas 355 mL,Bebidas,Fanta,16.3
+324,Detergente Líquido Bolívar Botella 1.8 L,Limpieza del Hogar,Bolívar,27.4
+325,Chocolate en Barra Sublime Unidad 30 g,Snacks y Golosinas,Sublime,1.5
+326,Maracuyá x Kg,Frutas y Verduras,Sin marca,6.9
+327,Compota Nestlé Plátano Pote 113 g,Bebés,Nestlé,3.4
+328,Alfajor D'Onofrio Unidad 40 g,Snacks y Golosinas,D'Onofrio,2.0
+329,Papel Higiénico Elite Pack x24 Rollos,Limpieza del Hogar,Elite,50.7
+330,Salame Otto Kunz Paquete 100 g,Embutidos,Otto Kunz,8.6
+331,Papel Toalla Scott Pack x2 Rollos,Limpieza del Hogar,Scott,8.2
+332,Néctar Cifrut Mango Caja 1 L,Bebidas,Cifrut,4.6
+333,Filete de Pota x Kg,"Carnes, Aves y Pescados",Sin marca,13.7
+334,Yogurt Gloria Lúcuma Vaso 150 g,Lácteos y Huevos,Gloria,2.7
+335,Arándano x Bandeja,Frutas y Verduras,Sin marca,8.1
+336,Bebida de Soya Gloria Caja 1 L,Lácteos y Huevos,Gloria,6.6
+337,Néctar Frugos Naranja Caja 1 L,Bebidas,Frugos,4.6
+338,Toallas Higiénicas Nosotras Paquete x16,Cuidado Personal,Nosotras,6.8
+339,Azúcar Rubia Cartavio Bolsa 1 Kg,Abarrotes,Cartavio,4.5
+340,Azúcar Blanca Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,4.3
+341,Yogurt Gloria Vainilla Vaso 150 g,Lácteos y Huevos,Gloria,2.7
+342,Néctar Pulp Manzana Caja 200 mL,Bebidas,Pulp,1.9
+343,Fideo Instantáneo Ajinomen Gallina Vaso 65 g,Abarrotes,Ajinomen,2.5
+344,Pollo Entero Marca Propia x Kg,"Carnes, Aves y Pescados",Marca Propia,9.2
+345,Pan de Molde Bimbo Integral Bolsa 400 g,Panadería y Galletas,Bimbo,6.9
+346,Azúcar Blanca Paramonga Bolsa 1 Kg,Abarrotes,Paramonga,6.5
+347,Pan de Molde Fargo Blanco Bolsa 400 g,Panadería y Galletas,Fargo,4.9
+348,Atún Florida Trozos en Agua Lata 140 g,Abarrotes,Florida,4.5
+349,Gaseosa Zero Inca Kola Botella 500 mL,Bebidas,Inca Kola,3.5
+350,Néctar Frugos Durazno Caja 1 L,Bebidas,Frugos,4.7
+351,Atún Florida Desmenuzado Lata 170 g,Abarrotes,Florida,5.2
+352,Jabón de Tocador Lux Unidad 90 g,Cuidado Personal,Lux,3.5
+353,Salsa de Soya Kikkoman Botella 150 mL,Abarrotes,Kikkoman,6.8
+354,Bebida Rehidratante Gatorade Limón Botella 1 L,Bebidas,Gatorade,5.1
+355,Huevos Pardos Marca Propia Pack x6,Lácteos y Huevos,Marca Propia,3.2
+356,Pan Hamburguesa Marca Propia Bolsa x6,Panadería y Galletas,Marca Propia,5.4
+357,Cereal de Maíz Kellogg's Azucarado Caja 250 g,Abarrotes,Kellogg's,9.0
+358,Aguaymanto x Bandeja,Frutas y Verduras,Sin marca,5.8
+359,Bebida Rehidratante Sporade Limón Botella 500 mL,Bebidas,Sporade,3.5
+360,Papel Higiénico Suave Pack x4 Rollos,Limpieza del Hogar,Suave,7.7
+361,Azúcar Rubia Marca Propia Bolsa 5 Kg,Abarrotes,Marca Propia,18.0
+362,Leche UHT Entera Marca Propia Caja 1 L,Lácteos y Huevos,Marca Propia,4.1
+363,Aceite Vegetal Capri Botella 3 L,Abarrotes,Capri,24.7
+364,Detergente en Polvo Ariel Bolsa 800 g,Limpieza del Hogar,Ariel,9.7
+365,Desodorante Nivea Aerosol 150 mL,Cuidado Personal,Nivea,19.0
+366,Kétchup Alacena Doypack 400 g,Abarrotes,Alacena,6.5
+367,Aceite Vegetal Capri Botella 1 L,Abarrotes,Capri,8.7
+368,Atún Florida Trozos en Agua Lata 170 g,Abarrotes,Florida,5.3
+369,Cerveza Heineken Pack x6 Latas 473 mL,Licores,Heineken,25.2
+370,Hot Dog San Fernando Clásico Paquete 450 g,Embutidos,San Fernando,10.4
+371,Yogurt Gloria Plátano Vaso 150 g,Lácteos y Huevos,Gloria,2.8
+372,Toallitas Húmedas Huggies Pack x80,Bebés,Huggies,14.5
+373,Pañales Huggies Talla RN Pack x50,Bebés,Huggies,64.5
+374,Pisco Biondi Italia Botella 750 mL,Licores,Biondi,42.8
+375,Néctar Gloria Mango Caja 200 mL,Bebidas,Gloria,1.9
+376,Atún Marca Propia Trozos en Agua Lata 170 g,Abarrotes,Marca Propia,4.6
+377,Refresco en Polvo Marca Propia Limonada Sobre 25 g,Bebidas,Marca Propia,0.7
+378,Arroz Integral Costeño Bolsa 750 g,Abarrotes,Costeño,7.3
+379,Garbanzo Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,6.9
+380,Papa Huayro x Kg,Frutas y Verduras,Sin marca,6.5
+381,Papilla Cerelac Plátano Tarro 400 g,Bebés,Cerelac,16.8
+382,Queso Fresco Gloria Paquete 500 g,Lácteos y Huevos,Gloria,16.6
+383,Helado D'Onofrio Chocolate Pote 2.8 L,Congelados,D'Onofrio,29.3
+384,Jabón de Tocador Protex Pack x3,Cuidado Personal,Protex,8.3
+385,Canchita Serrana Inca Corn Bolsa 120 g,Snacks y Golosinas,Inca Corn,5.2
+386,Gelatina Royal Cereza Caja 140 g,Abarrotes,Royal,2.5
+387,Vino Marca Propia Rosado Botella 750 mL,Licores,Marca Propia,28.0
+388,Desinfectante Poett Botella 900 mL,Limpieza del Hogar,Poett,9.1
+389,Cheetos Cheetos Queso Bolsa 140 g,Snacks y Golosinas,Cheetos,4.7
+390,Jabón de Tocador Palmolive Unidad 90 g,Cuidado Personal,Palmolive,3.7
+391,Fideos Spaghetti Don Vittorio Bolsa 250 g,Abarrotes,Don Vittorio,2.5
+392,Mayonesa Hellmann's Frasco 190 g,Abarrotes,Hellmann's,4.1
+393,Gaseosa Fanta Lata 355 mL,Bebidas,Fanta,3.1
+394,Pollo Entero Redondos x Kg,"Carnes, Aves y Pescados",Redondos,11.2
+395,Gaseosa Kola Real Pack x6 Latas 355 mL,Bebidas,Kola Real,19.4
+396,Cerveza Brahma Lata 473 mL,Licores,Brahma,4.5
+397,Yogurt Bella Holandesa Vainilla Vaso 150 g,Lácteos y Huevos,Bella Holandesa,2.9
+398,Jamón Serrano Importado Paquete 100 g,Embutidos,Importado,27.7
+399,Vinagre Blanco Marca Propia Botella 500 mL,Abarrotes,Marca Propia,2.3
+400,Compota Gerber Manzana Pote 113 g,Bebés,Gerber,3.7
+401,Papel Toalla Elite Pack x2 Rollos,Limpieza del Hogar,Elite,6.1
+402,Flan Marca Propia Caramelo Caja 120 g,Abarrotes,Marca Propia,2.8
+403,Bolsas para Basura Marca Propia Paquete x10,Limpieza del Hogar,Marca Propia,4.0
+404,Pan de Molde Bimbo Integral Bolsa 600 g,Panadería y Galletas,Bimbo,9.2
+405,Lejía Sapolio Botella 4 L,Limpieza del Hogar,Sapolio,14.9
+406,Hot Dog Otto Kunz Huachana Paquete 220 g,Embutidos,Otto Kunz,5.1
+407,Pierna de Pollo San Fernando Bandeja 500 g,"Carnes, Aves y Pescados",San Fernando,9.0
+408,Comino Molido Alacena Sachet 20 g,Abarrotes,Alacena,1.8
+409,Atún Campomar Desmenuzado Lata 170 g,Abarrotes,Campomar,7.6
+410,Espumante Santiago Queirolo Semiseco Botella 750 mL,Licores,Santiago Queirolo,63.8
+411,Kiwicha Costeño Bolsa 250 g,Abarrotes,Costeño,4.6
+412,Helado Marca Propia Coco Vasito 120 mL,Congelados,Marca Propia,3.7
+413,Pañales Pampers Talla P Pack x50,Bebés,Pampers,68.8
+414,Té Hornimans Verde Caja x25 Sobres,Abarrotes,Hornimans,6.4
+415,Agua Mineral San Luis Sin Gas Bidón 7 L,Bebidas,San Luis,6.0
+416,Filete de Tilapia x Kg,"Carnes, Aves y Pescados",Sin marca,28.0
+417,Té Lipton Verde Caja x25 Sobres,Abarrotes,Lipton,4.7
+418,Néctar Gloria Mango Caja 1 L,Bebidas,Gloria,6.3
+419,Cerveza Cusqueña Pack x12 Latas 473 mL,Licores,Cusqueña,47.8
+420,Néctar Frugos Manzana Caja 200 mL,Bebidas,Frugos,1.4
+421,Hot Dog San Fernando Cocktail Paquete 450 g,Embutidos,San Fernando,10.0
+422,Gaseosa Inca Kola Botella 3 L,Bebidas,Inca Kola,10.0
+423,Kión en Polvo Sibarita Sachet 20 g,Abarrotes,Sibarita,2.3
+424,Leche Chocolatada Laive Botella 1 L,Bebidas,Laive,8.1
+425,Manzana Fuji x Kg,Frutas y Verduras,Sin marca,8.5
+426,Alfajor Field Pack x6,Snacks y Golosinas,Field,8.5
+427,Café Instantáneo Kirma Clásico Frasco 50 g,Abarrotes,Kirma,8.6
+428,Yogurt Bella Holandesa Durazno Botella 1 L,Lácteos y Huevos,Bella Holandesa,8.5
+429,Gaseosa Zero Inca Kola Botella 3 L,Bebidas,Inca Kola,10.3
+430,Alimento para Cachorro Mimaskot Bolsa 3 Kg,Mascotas,Mimaskot,27.4
+431,Frijol Negro Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,8.0
+432,Fideo Instantáneo Nissin Gallina Vaso 65 g,Abarrotes,Nissin,3.4
+433,Servilletas Marca Propia Paquete x100,Limpieza del Hogar,Marca Propia,2.9
+434,Jamón San Fernando Paquete 500 g,Embutidos,San Fernando,16.6
+435,Vinagre Blanco Alacena Botella 500 mL,Abarrotes,Alacena,2.3
+436,Salsa de Tomate Alacena Doypack 190 g,Abarrotes,Alacena,2.9
+437,Snack para Perro Pedigree Bolsa 200 g,Mascotas,Pedigree,10.2
+438,Nuggets de Pollo Redondos Bolsa 300 g,Congelados,Redondos,11.2
+439,Queso Edam Bella Holandesa Bloque 250 g,Lácteos y Huevos,Bella Holandesa,11.4
+440,Leche Evaporada Gloria Lata 170 g,Lácteos y Huevos,Gloria,2.7
+441,Pañales Huggies Talla P Pack x50,Bebés,Huggies,60.2
+442,Arroz Extra Paisana Bolsa 750 g,Abarrotes,Paisana,6.1
+443,Acondicionador Pantene Botella 400 mL,Cuidado Personal,Pantene,16.3
+444,Chocolate en Polvo Nesquik Bolsa 200 g,Abarrotes,Nesquik,7.4
+445,Queque Fargo Vainilla Paquete 250 g,Panadería y Galletas,Fargo,6.7
+446,Frijol Negro Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,14.0
+447,Chorizo San Fernando Parrillero Paquete 250 g,Embutidos,San Fernando,12.1
+448,Queso Fresco Gloria Paquete 250 g,Lácteos y Huevos,Gloria,9.5
+449,Alimento para Perro Adulto Ricocan Bolsa 8 Kg,Mascotas,Ricocan,85.6
+450,Alfajor Field Unidad 40 g,Snacks y Golosinas,Field,1.6
+451,Papas Fritas Pringles Queso Bolsa 40 g,Snacks y Golosinas,Pringles,2.8
+452,Nuggets de Pollo Redondos Bolsa 600 g,Congelados,Redondos,20.2
+453,Salame Importado Paquete 100 g,Embutidos,Importado,16.0
+454,Kión en Polvo Marca Propia Sachet 20 g,Abarrotes,Marca Propia,1.8
+455,Palta Hass x Kg,Frutas y Verduras,Sin marca,11.9
+456,Pañales Huggies Talla M Pack x50,Bebés,Huggies,66.3
+457,Helado Marca Propia Vainilla Vasito 120 mL,Congelados,Marca Propia,4.0
+458,Detergente en Polvo Bolívar Bolsa 800 g,Limpieza del Hogar,Bolívar,9.6
+459,Doritos Doritos Queso Bolsa 150 g,Snacks y Golosinas,Doritos,5.5
+460,Fideo Instantáneo Maruchan Gallina Vaso 65 g,Abarrotes,Maruchan,2.6
+461,Gaseosa Inca Kola Lata 355 mL,Bebidas,Inca Kola,2.6
+462,Café Instantáneo Nescafé Descafeinado Frasco 50 g,Abarrotes,Nescafé,8.4
+463,Atún Primor Filete en Aceite Lata 140 g,Abarrotes,Primor,4.8
+464,Pizza Congelada Importado Americana Unidad 400 g,Congelados,Importado,28.4
+465,Fideos Spaghetti Lavaggi Bolsa 500 g,Abarrotes,Lavaggi,4.5
+466,Gaseosa Pepsi Botella 500 mL,Bebidas,Pepsi,3.4
+467,Azúcar Rubia Paramonga Bolsa 1 Kg,Abarrotes,Paramonga,4.6
+468,Canela Molida Alacena Sachet 20 g,Abarrotes,Alacena,2.5
+469,Néctar Cifrut Multifruta Caja 200 mL,Bebidas,Cifrut,1.3
+470,Huevos Pardos Marca Propia Pack x12,Lácteos y Huevos,Marca Propia,5.9
+471,Atún Marca Propia Desmenuzado Lata 170 g,Abarrotes,Marca Propia,5.0
+472,Alimento para Perro Adulto Ricocan Bolsa 15 Kg,Mascotas,Ricocan,146.1
+473,Yuca x Kg,Frutas y Verduras,Sin marca,4.3
+474,Shampoo Marca Propia Botella 650 mL,Cuidado Personal,Marca Propia,20.5
+475,Helado D'Onofrio Vainilla Pote 1 L,Congelados,D'Onofrio,13.3
+476,Néctar Frugos Multifruta Caja 200 mL,Bebidas,Frugos,1.3
+477,Queso Fresco Bella Holandesa Paquete 250 g,Lácteos y Huevos,Bella Holandesa,8.0
+478,Atún Campomar Trozos en Agua Lata 170 g,Abarrotes,Campomar,7.1
+479,Bebida Energizante Red Bull Lata 300 mL,Bebidas,Red Bull,5.2
+480,Fideos Tornillo Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,3.6
+481,Ambientador Glade Brisa Marina Aerosol 360 mL,Limpieza del Hogar,Glade,10.8
+482,Chicha Morada Envasada Gloria Botella 1 L,Bebidas,Gloria,6.0
+483,Castañas Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,21.3
+484,Chifles Marca Propia Salados Bolsa 100 g,Snacks y Golosinas,Marca Propia,2.9
+485,Trucha x Kg,"Carnes, Aves y Pescados",Sin marca,21.3
+486,Alimento para Perro Adulto Dog Chow Bolsa 8 Kg,Mascotas,Dog Chow,82.9
+487,Manzana Delicia x Kg,Frutas y Verduras,Sin marca,6.7
+488,Leche Condensada Nestlé La Lechera Tarro 393 g,Lácteos y Huevos,Nestlé La Lechera,6.0
+489,Caramelos Halls Frutas Bolsa 100 g,Snacks y Golosinas,Halls,2.9
+490,Aceite Vegetal Primor Botella 3 L,Abarrotes,Primor,25.3
+491,Leche UHT Deslactosada Laive Caja 1 L,Lácteos y Huevos,Laive,7.0
+492,Durazno en Almíbar Gloria Lata 820 g,Abarrotes,Gloria,11.3
+493,Queque Marca Propia Vainilla Paquete 250 g,Panadería y Galletas,Marca Propia,5.2
+494,Infusión de Cedrón McColin's Caja x25 Sobres,Abarrotes,McColin's,3.5
+495,Leche Descremada Gloria Caja 1 L,Lácteos y Huevos,Gloria,5.8
+496,Shampoo Sedal Sachet 12 mL,Cuidado Personal,Sedal,1.9
+497,Galletas Dulces Costa Vainilla Paquete x6 Unidades,Panadería y Galletas,Costa,3.3
+498,Lavavajilla Marca Propia Limón Pote 500 g,Limpieza del Hogar,Marca Propia,5.9
+499,Apio x Kg,Frutas y Verduras,Sin marca,3.6
+500,Bebida Energizante Volt Lata 300 mL,Bebidas,Volt,5.6
+501,Fideo Instantáneo Maruchan Pollo Sobre 85 g,Abarrotes,Maruchan,1.9
+502,Cereal de Maíz Kellogg's Corn Flakes Caja 500 g,Abarrotes,Kellogg's,14.9
+503,Ají Panca Molido Alacena Sachet 20 g,Abarrotes,Alacena,3.5
+504,Agua Mineral San Luis Sin Gas Pack x6 Botellas 625 mL,Bebidas,San Luis,11.9
+505,Bebida Rehidratante Gatorade Naranja Botella 500 mL,Bebidas,Gatorade,2.8
+506,Lejía Clorox Botella 4 L,Limpieza del Hogar,Clorox,13.4
+507,Alfajor Marca Propia Pack x6,Snacks y Golosinas,Marca Propia,8.0
+508,Mantequilla Gloria Barra 200 g,Lácteos y Huevos,Gloria,7.7
+509,Quinua Costeño Bolsa 500 g,Abarrotes,Costeño,10.2
+510,Helado Marca Propia Lúcuma Pote 2.8 L,Congelados,Marca Propia,32.3
+511,Yogurt Griego Bella Holandesa Fresa Vaso 140 g,Lácteos y Huevos,Bella Holandesa,3.9
+512,Sal Marina Gruesa Emsal Bolsa 1 Kg,Abarrotes,Emsal,3.5
+513,Lavavajilla Sapolio Aloe Pote 900 g,Limpieza del Hogar,Sapolio,13.7
+514,Espárrago x Atado,Frutas y Verduras,Sin marca,8.4
+515,Leche UHT Entera Marca Propia Pack x6 Cajas 1 L,Lácteos y Huevos,Marca Propia,21.1
+516,Cerveza Pilsen Callao Pack x12 Latas 473 mL,Licores,Pilsen Callao,53.3
+517,Mermelada Gloria Piña Frasco 300 g,Abarrotes,Gloria,7.6
+518,Refresco en Polvo Tang Maracuyá Sobre 25 g,Bebidas,Tang,0.7
+519,Agua Mineral Cielo Sin Gas Botella 625 mL,Bebidas,Cielo,2.4
+520,Queso Parmesano Rallado Importado Bolsa 100 g,Lácteos y Huevos,Importado,12.0
+521,Aceite Vegetal Friol Botella 3 L,Abarrotes,Friol,37.3
+522,Chicle Orbit Paquete x12 Unidades,Snacks y Golosinas,Orbit,5.4
+523,Arroz Extra Paisana Bolsa 5 Kg,Abarrotes,Paisana,28.2
+524,Leche Evaporada Gloria Pack x6 Latas 395 g,Lácteos y Huevos,Gloria,28.7
+525,Queso Parmesano Rallado Laive Bolsa 100 g,Lácteos y Huevos,Laive,7.3
+526,Papas Fritas Lay's Clásicas Bolsa 40 g,Snacks y Golosinas,Lay's,1.9
+527,Papas Fritas Lay's Pollo Bolsa 140 g,Snacks y Golosinas,Lay's,5.3
+528,Té McColin's Negro Caja x25 Sobres,Abarrotes,McColin's,5.2
+529,Arroz Extra Faraón Bolsa 750 g,Abarrotes,Faraón,6.2
+530,Pimienta Molida Marca Propia Sachet 20 g,Abarrotes,Marca Propia,2.0
+531,Fideo Instantáneo Nissin Gallina Sobre 85 g,Abarrotes,Nissin,2.4
+532,Jamonada San Fernando Paquete 200 g,Embutidos,San Fernando,5.4
+533,Lavavajilla Marca Propia Limón Pote 900 g,Limpieza del Hogar,Marca Propia,9.5
+534,Cepillo Dental Oral-B Pack x2,Cuidado Personal,Oral-B,8.7
+535,Helado Laive Fresa Pote 2.8 L,Congelados,Laive,35.5
+536,Detergente en Polvo Marsella Bolsa 800 g,Limpieza del Hogar,Marsella,10.9
+537,Melón x Kg,Frutas y Verduras,Sin marca,4.5
+538,Toallitas Húmedas Babysec Pack x80,Bebés,Babysec,15.2
+539,Helado D'Onofrio Fresa Pote 2.8 L,Congelados,D'Onofrio,29.0
+540,Caballa Florida al Natural Lata 425 g,Abarrotes,Florida,6.0
+541,Camote Amarillo x Kg,Frutas y Verduras,Sin marca,4.0
+542,Pierna de Pollo Marca Propia Bandeja 500 g,"Carnes, Aves y Pescados",Marca Propia,6.1
+543,Cereal de Maíz Ángel Azucarado Caja 250 g,Abarrotes,Ángel,8.0
+544,Hot Dog Braedt Huachana Paquete 450 g,Embutidos,Braedt,11.5
+545,Yogurt Gloria Lúcuma Botella 1 L,Lácteos y Huevos,Gloria,7.6
+546,Frijol Canario Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,10.3
+547,Aceite Vegetal Marca Propia Botella 900 mL,Abarrotes,Marca Propia,7.9
+548,Afeitadora Descartable Marca Propia Pack x4,Cuidado Personal,Marca Propia,8.0
+549,Limpiatodo Sapolio Lavanda Botella 900 mL,Limpieza del Hogar,Sapolio,5.5
+550,Arroz Extra Faraón Bolsa 1 Kg,Abarrotes,Faraón,7.4
+551,Miel de Abeja Apicola Andina Frasco 350 g,Abarrotes,Apicola Andina,11.8
+552,Mermelada Gloria Durazno Frasco 300 g,Abarrotes,Gloria,8.3
+553,Té Lipton Negro Caja x25 Sobres,Abarrotes,Lipton,4.5
+554,Crema Corporal Vaseline Frasco 400 mL,Cuidado Personal,Vaseline,24.7
+555,Chocolate en Barra Triángulo Pack x6 Unidades,Snacks y Golosinas,Triángulo,6.8
+556,Cepillo Dental Colgate Pack x2,Cuidado Personal,Colgate,9.5
+557,Alimento para Gato Whiskas Bolsa 1.5 Kg,Mascotas,Whiskas,28.2
+558,Fideo Instantáneo Maruchan Gallina Sobre 85 g,Abarrotes,Maruchan,2.0
+559,Huevos Blancos La Calera Pack x12,Lácteos y Huevos,La Calera,6.2
+560,Suavizante Marca Propia Doypack 800 mL,Limpieza del Hogar,Marca Propia,7.1
+561,Pañales Pampers Talla M Pack x50,Bebés,Pampers,67.7
+562,Infusión de Manzanilla McColin's Caja x25 Sobres,Abarrotes,McColin's,3.8
+563,Lavavajilla Ayudín Limón Pote 900 g,Limpieza del Hogar,Ayudín,10.0
+564,Papa Canchán x Kg,Frutas y Verduras,Sin marca,4.1
+565,Pimienta Molida Sibarita Sachet 20 g,Abarrotes,Sibarita,2.3
+566,Alimento para Cachorro Dog Chow Bolsa 3 Kg,Mascotas,Dog Chow,30.3
+567,Yogurt Laive Plátano Vaso 150 g,Lácteos y Huevos,Laive,2.0
+568,Fideo Instantáneo Nissin Pollo Vaso 65 g,Abarrotes,Nissin,3.7
+569,Castañas Cuisine & Co Bolsa 200 g,Abarrotes,Cuisine & Co,31.1
+570,Lavavajilla Ayudín Limón Pote 500 g,Limpieza del Hogar,Ayudín,5.7
+571,Palillo Molido Sibarita Sachet 20 g,Abarrotes,Sibarita,3.3
+572,Brócoli x Kg,Frutas y Verduras,Sin marca,6.1
+573,Fideos Spaghetti Don Vittorio Bolsa 500 g,Abarrotes,Don Vittorio,4.2
+574,Maca en Polvo Marca Propia Bolsa 250 g,Abarrotes,Marca Propia,9.9
+575,Tostadas Marca Propia Paquete 200 g,Panadería y Galletas,Marca Propia,3.6
+576,Yogurt Pura Vida Fresa Botella 1 L,Lácteos y Huevos,Pura Vida,7.2
+577,Crema para Pañal Babysec Tubo 60 g,Bebés,Babysec,15.2
+578,Ron Havana Club Botella 750 mL,Licores,Havana Club,38.4
+579,Papel Higiénico Scott Pack x4 Rollos,Limpieza del Hogar,Scott,7.8
+580,Pan de Molde Fargo Blanco Bolsa 600 g,Panadería y Galletas,Fargo,6.8
+581,Néctar Pulp Durazno Caja 200 mL,Bebidas,Pulp,1.7
+582,Pizza Congelada Marca Propia Mozzarella Unidad 400 g,Congelados,Marca Propia,15.7
+583,Lechuga Americana x Unidad,Frutas y Verduras,Sin marca,2.5
+584,Vino Marca Propia Blanco Botella 750 mL,Licores,Marca Propia,27.8
+585,Queque Fargo Chocolate Paquete 250 g,Panadería y Galletas,Fargo,6.8
+586,Hamburguesas Marca Propia Caja x8,Congelados,Marca Propia,18.0
+587,Leche Evaporada Nestlé Pack x6 Latas 395 g,Lácteos y Huevos,Nestlé,20.1
+588,Leche Chocolatada Gloria Botella 1 L,Bebidas,Gloria,7.9
+589,Té Hornimans Canela y Clavo Caja x25 Sobres,Abarrotes,Hornimans,7.1
+590,Mango Kent x Kg,Frutas y Verduras,Sin marca,6.7
+591,Agua Mineral Vida Con Gas Bidón 7 L,Bebidas,Vida,5.3
+592,Mortadela San Fernando Paquete 200 g,Embutidos,San Fernando,5.3
+593,Galletas Dulces Costa Coco Paquete x12 Unidades,Panadería y Galletas,Costa,6.4
+594,Bolsas para Basura Sapolio Paquete x10,Limpieza del Hogar,Sapolio,4.6
+595,Enjuague Bucal Colgate Botella 500 mL,Cuidado Personal,Colgate,21.0
+596,Galletas Dulces Ritz Rellenas Paquete x6 Unidades,Panadería y Galletas,Ritz,3.2
+597,Filete de Pechuga San Fernando Bandeja 500 g,"Carnes, Aves y Pescados",San Fernando,13.7
+598,Hot Dog Braedt Clásico Paquete 450 g,Embutidos,Braedt,11.7
+599,Chorizo Otto Kunz Español Paquete 250 g,Embutidos,Otto Kunz,15.0
+600,Mazamorra Morada Universal Caja 160 g,Abarrotes,Universal,4.3
+601,Detergente en Polvo Marca Propia Bolsa 2 Kg,Limpieza del Hogar,Marca Propia,21.5
+602,Frijol Negro Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,11.6
+603,Whisky Jack Daniel's Botella 750 mL,Licores,Jack Daniel's,82.3
+604,Pisco Portón Mosto Verde Botella 750 mL,Licores,Portón,59.4
+605,Ambientador Glade Vainilla Aerosol 360 mL,Limpieza del Hogar,Glade,10.9
+606,Espumante Importado Semiseco Botella 750 mL,Licores,Importado,76.2
+607,Sopa Instantánea Maggi Pollo Sobre 70 g,Abarrotes,Maggi,2.7
+608,Atún Primor Trozos en Agua Lata 170 g,Abarrotes,Primor,5.0
+609,Chocolate en Polvo Nesquik Tarro 400 g,Abarrotes,Nesquik,12.2
+610,Hot Dog Braedt Cocktail Paquete 450 g,Embutidos,Braedt,12.8
+611,Cerveza Cusqueña Botella 630 mL,Licores,Cusqueña,6.4
+612,Galletas Dulces Field Rellenas Paquete x12 Unidades,Panadería y Galletas,Field,7.3
+613,Detergente Líquido Ace Botella 1.8 L,Limpieza del Hogar,Ace,34.7
+614,Costillar de Res x Kg,"Carnes, Aves y Pescados",Sin marca,23.8
+615,Lavavajilla Marca Propia Aloe Pote 500 g,Limpieza del Hogar,Marca Propia,5.3
+616,Café Instantáneo Kirma Descafeinado Frasco 100 g,Abarrotes,Kirma,13.3
+617,Sopa Instantánea Knorr Verduras Sobre 70 g,Abarrotes,Knorr,2.2
+618,Pan Ciabatta x Kg,Panadería y Galletas,Sin marca,12.5
+619,Avena en Hojuelas 3 Ositos Bolsa 500 g,Abarrotes,3 Ositos,6.3
+620,Jamón San Fernando Paquete 200 g,Embutidos,San Fernando,7.7
+621,Garbanzo Costeño Bolsa 500 g,Abarrotes,Costeño,7.9
+622,Ají en Pasta Tarí Amarillo Doypack 200 g,Abarrotes,Tarí,5.4
+623,Café Instantáneo Altomayo Descafeinado Frasco 50 g,Abarrotes,Altomayo,11.6
+624,Mermelada Gloria Mora Frasco 300 g,Abarrotes,Gloria,8.2
+625,Huevos Blancos Marca Propia Bandeja x30,Lácteos y Huevos,Marca Propia,11.9
+626,Flan Marca Propia Vainilla Caja 120 g,Abarrotes,Marca Propia,2.8
+627,Agua Mineral San Mateo Sin Gas Bidón 7 L,Bebidas,San Mateo,5.8
+628,Shampoo Pantene Botella 400 mL,Cuidado Personal,Pantene,20.2
+629,Néctar Cifrut Naranja Caja 1 L,Bebidas,Cifrut,4.6
+630,Lejía Marca Propia Botella 1 L,Limpieza del Hogar,Marca Propia,3.8
+631,Refresco en Polvo Kanu Naranja Sobre 25 g,Bebidas,Kanu,0.8
+632,Limón Sutil x Kg,Frutas y Verduras,Sin marca,7.5
+633,Ají en Pasta Marca Propia Amarillo Doypack 200 g,Abarrotes,Marca Propia,4.2
+634,Sopa Instantánea Ajinomen Verduras Sobre 70 g,Abarrotes,Ajinomen,2.5
+635,Lavavajilla Sapolio Aloe Pote 500 g,Limpieza del Hogar,Sapolio,8.3
+636,Galletas Dulces Field Coco Paquete x12 Unidades,Panadería y Galletas,Field,7.5
+637,Leche Descremada Pura Vida Caja 1 L,Lácteos y Huevos,Pura Vida,4.4
+638,Pierna de Pollo Redondos Bandeja 500 g,"Carnes, Aves y Pescados",Redondos,6.1
+639,Tomate Italiano x Kg,Frutas y Verduras,Sin marca,4.5
+640,Membrillo x Kg,Frutas y Verduras,Sin marca,4.9
+641,Panceta de Cerdo x Kg,"Carnes, Aves y Pescados",Sin marca,27.5
+642,Flan Royal Vainilla Caja 120 g,Abarrotes,Royal,4.1
+643,Cerveza Corona Pack x12 Latas 473 mL,Licores,Corona,41.6
+644,Helado D'Onofrio Coco Pote 2.8 L,Congelados,D'Onofrio,30.9
+645,Desinfectante Lysol Botella 900 mL,Limpieza del Hogar,Lysol,7.1
+646,Yogurt Laive Fresa Vaso 150 g,Lácteos y Huevos,Laive,2.0
+647,Caballa Primor en Salsa de Tomate Lata 425 g,Abarrotes,Primor,6.7
+648,Galletas Dulces Ritz Vainilla Paquete x12 Unidades,Panadería y Galletas,Ritz,6.1
+649,Alimento para Gato Mimaskot Bolsa 3 Kg,Mascotas,Mimaskot,40.8
+650,Desodorante Dove Aerosol 150 mL,Cuidado Personal,Dove,12.6
+651,Yogurt Pura Vida Fresa Vaso 150 g,Lácteos y Huevos,Pura Vida,2.8
+652,Pechuga de Pollo Redondos x Kg,"Carnes, Aves y Pescados",Redondos,21.3
+653,Jamón Marca Propia Paquete 200 g,Embutidos,Marca Propia,8.2
+654,Papas Fritas Marca Propia Pollo Bolsa 140 g,Snacks y Golosinas,Marca Propia,5.2
+655,Chocolate en Barra Princesa Unidad 30 g,Snacks y Golosinas,Princesa,1.8
+656,Caramelos Halls Menta Bolsa 100 g,Snacks y Golosinas,Halls,2.9
+657,Piña x Kg,Frutas y Verduras,Sin marca,4.4
+658,Gaseosa Kola Real Botella 2.25 L,Bebidas,Kola Real,11.1
+659,Chocolate en Barra D'Onofrio Unidad 30 g,Snacks y Golosinas,D'Onofrio,1.4
+660,Infusión de Manzanilla con Anís Filtrante Caja x25 Sobres,Abarrotes,Filtrante,2.7
+661,Papel Higiénico Scott Pack x12 Rollos,Limpieza del Hogar,Scott,18.8
+662,Pan de Molde Fargo Integral Bolsa 400 g,Panadería y Galletas,Fargo,4.8
+663,Cereal de Maíz Ángel Chocolate Caja 500 g,Abarrotes,Ángel,13.3
+664,Ají en Pasta Alacena Rocoto Doypack 200 g,Abarrotes,Alacena,6.4
+665,Fideo Instantáneo Ajinomen Pollo Sobre 85 g,Abarrotes,Ajinomen,1.7
+666,Shampoo Pantene Botella 650 mL,Cuidado Personal,Pantene,28.3
+667,Galletas Integrales Marca Propia Paquete x6 Unidades,Panadería y Galletas,Marca Propia,3.0
+668,Kiwicha Marca Propia Bolsa 250 g,Abarrotes,Marca Propia,4.8
+669,Sazonador Maggi Sachet 100 g,Abarrotes,Maggi,2.3
+670,Gaseosa Zero Pepsi Botella 500 mL,Bebidas,Pepsi,3.8
+671,Cereal de Maíz Nestlé Azucarado Caja 250 g,Abarrotes,Nestlé,7.8
+672,Shampoo Head & Shoulders Botella 650 mL,Cuidado Personal,Head & Shoulders,21.2
+673,Pecanas Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,22.0
+674,Enjuague Bucal Listerine Botella 500 mL,Cuidado Personal,Listerine,18.3
+675,Avena en Hojuelas 3 Ositos Bolsa 300 g,Abarrotes,3 Ositos,4.2
+676,Hamburguesas San Fernando Caja x4,Congelados,San Fernando,12.6
+677,Queso Mozzarella Laive Bolsa 500 g,Lácteos y Huevos,Laive,19.3
+678,Gelatina Marca Propia Limón Caja 140 g,Abarrotes,Marca Propia,2.4
+679,Crema para Pañal Desitin Tubo 60 g,Bebés,Desitin,17.2
+680,Galletas Dulces Oreo Rellenas Paquete x12 Unidades,Panadería y Galletas,Oreo,7.0
+681,Queso Edam Gloria Bloque 250 g,Lácteos y Huevos,Gloria,13.2
+682,Infusión de Manzanilla Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.1
+683,Lechuga Crespa x Unidad,Frutas y Verduras,Sin marca,2.3
+684,Pañales Pampers Talla G Pack x50,Bebés,Pampers,65.1
+685,Galletas Soda Costa Paquete x6 Unidades,Panadería y Galletas,Costa,2.5
+686,Infusión de Hierba Luisa Herbi Caja x25 Sobres,Abarrotes,Herbi,2.9
+687,Yogurt Pura Vida Durazno Botella 1 L,Lácteos y Huevos,Pura Vida,7.6
+688,Leche UHT Deslactosada Gloria Pack x6 Cajas 1 L,Lácteos y Huevos,Gloria,26.6
+689,Acondicionador Dove Botella 400 mL,Cuidado Personal,Dove,14.6
+690,Doritos Doritos Queso Bolsa 45 g,Snacks y Golosinas,Doritos,2.0
+691,Néctar Gloria Durazno Caja 1 L,Bebidas,Gloria,6.0
+692,Papel Higiénico Scott Pack x24 Rollos,Limpieza del Hogar,Scott,37.5
+693,Gaseosa Pepsi Pack x6 Latas 355 mL,Bebidas,Pepsi,14.4
+694,Fideos Codo Molitalia Bolsa 500 g,Abarrotes,Molitalia,5.3
+695,Azúcar Blanca Laredo Bolsa 5 Kg,Abarrotes,Laredo,26.9
+696,Yogurt Laive Cereal Vaso 150 g,Lácteos y Huevos,Laive,2.1
+697,Papilla Gerber Trigo Tarro 400 g,Bebés,Gerber,16.1
+698,Galletas Integrales Costa Paquete x6 Unidades,Panadería y Galletas,Costa,4.3
+699,Galletas Dulces Oreo Rellenas Paquete x6 Unidades,Panadería y Galletas,Oreo,3.8
+700,Shampoo Marca Propia Sachet 12 mL,Cuidado Personal,Marca Propia,1.6
+701,Chocolate en Polvo Winters Bolsa 200 g,Abarrotes,Winters,8.4
+702,Shampoo Dove Botella 400 mL,Cuidado Personal,Dove,22.7
+703,Tuna x Kg,Frutas y Verduras,Sin marca,3.9
+704,Mayonesa Alacena Frasco 190 g,Abarrotes,Alacena,5.0
+705,Yogurt Gloria Durazno Botella 1 L,Lácteos y Huevos,Gloria,8.0
+706,Pan de Molde Bimbo Blanco Bolsa 600 g,Panadería y Galletas,Bimbo,9.8
+707,Helado D'Onofrio Vainilla Pote 2.8 L,Congelados,D'Onofrio,31.1
+708,Lenteja Costeño Bolsa 1 Kg,Abarrotes,Costeño,14.2
+709,Maní Tostado Cuisine & Co Bolsa 200 g,Abarrotes,Cuisine & Co,6.2
+710,Yogurt Laive Vainilla Vaso 150 g,Lácteos y Huevos,Laive,2.0
+711,Vino Tacama Tinto Botella 750 mL,Licores,Tacama,33.3
+712,Compota Gerber Pera Pote 113 g,Bebés,Gerber,3.5
+713,Canela Molida Marca Propia Sachet 20 g,Abarrotes,Marca Propia,1.8
+714,Asado de Tira x Kg,"Carnes, Aves y Pescados",Sin marca,35.4
+715,Yogurt Laive Plátano Botella 1 L,Lácteos y Huevos,Laive,6.1
+716,Agua Mineral San Mateo Con Gas Botella 625 mL,Bebidas,San Mateo,2.2
+717,Café Instantáneo Kirma Clásico Frasco 100 g,Abarrotes,Kirma,13.9
+718,Suavizante Downy Botella 1 L,Limpieza del Hogar,Downy,8.8
+719,Caramelos Marca Propia Miel Bolsa 100 g,Snacks y Golosinas,Marca Propia,2.7
+720,Filete de Salmón x Kg,"Carnes, Aves y Pescados",Sin marca,55.1
+721,Pañales Huggies Talla G Pack x50,Bebés,Huggies,67.3
+722,Mermelada Marca Propia Durazno Frasco 300 g,Abarrotes,Marca Propia,5.4
+723,Guantes de Limpieza Marca Propia Par,Limpieza del Hogar,Marca Propia,4.4
+724,Garbanzo Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,7.7
+725,Fórmula Infantil Enfamil Etapa 3 Tarro 400 g,Bebés,Enfamil,63.8
+726,Bebida Energizante Monster Lata 300 mL,Bebidas,Monster,4.1
+727,Ron Cartavio Botella 750 mL,Licores,Cartavio,37.2
+728,Fresa x Kg,Frutas y Verduras,Sin marca,9.6
+729,Manjar Blanco Bella Holandesa Pote 250 g,Lácteos y Huevos,Bella Holandesa,5.6
+730,Helado Laive Coco Pote 2.8 L,Congelados,Laive,32.8
+731,Arroz Extra Paisana Bolsa 1 Kg,Abarrotes,Paisana,7.3
+732,Queque Marca Propia Chocolate Paquete 250 g,Panadería y Galletas,Marca Propia,4.9
+733,Detergente en Polvo Ace Bolsa 800 g,Limpieza del Hogar,Ace,10.4
+734,Gaseosa Zero Pepsi Botella 3 L,Bebidas,Pepsi,13.8
+735,Atún Campomar Desmenuzado Lata 140 g,Abarrotes,Campomar,5.7
+736,Sal Marina Gruesa Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,2.5
+737,Fideo Instantáneo Ajinomen Carne Sobre 85 g,Abarrotes,Ajinomen,1.9
+738,Atún Primor Desmenuzado Lata 170 g,Abarrotes,Primor,5.3
+739,Pañales Babysec Talla XG Pack x50,Bebés,Babysec,61.7
+740,Néctar Pulp Piña Caja 200 mL,Bebidas,Pulp,1.8
+741,Gomitas Marca Propia Bolsa 100 g,Snacks y Golosinas,Marca Propia,3.5
+742,Fideos Tornillo Don Vittorio Bolsa 500 g,Abarrotes,Don Vittorio,3.5
+743,Néctar Pulp Multifruta Caja 1 L,Bebidas,Pulp,6.3
+744,Café Instantáneo Nescafé Descafeinado Frasco 100 g,Abarrotes,Nescafé,15.2
+745,Frijol Castilla Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,14.6
+746,Mayonesa Marca Propia Frasco 190 g,Abarrotes,Marca Propia,3.8
+747,Hot Dog Otto Kunz Huachana Paquete 450 g,Embutidos,Otto Kunz,9.2
+748,Gaseosa Sprite Botella 2.25 L,Bebidas,Sprite,7.9
+749,Frijol Castilla Costeño Bolsa 500 g,Abarrotes,Costeño,6.4
+750,Vino Santiago Queirolo Tinto Botella 750 mL,Licores,Santiago Queirolo,28.0
+751,Hot Dog Laive Cocktail Paquete 450 g,Embutidos,Laive,10.5
+752,Gaseosa Guaraná Botella 2.25 L,Bebidas,Guaraná,8.0
+753,Gaseosa Pepsi Botella 3 L,Bebidas,Pepsi,10.6
+754,Café Molido Marca Propia Bolsa 250 g,Abarrotes,Marca Propia,11.6
+755,Vino Intipalka Rosado Botella 750 mL,Licores,Intipalka,29.1
+756,Yogurt Gloria Durazno Vaso 150 g,Lácteos y Huevos,Gloria,2.8
+757,Detergente en Polvo Ariel Bolsa 4 Kg,Limpieza del Hogar,Ariel,39.6
+758,Helado Laive Chocolate Vasito 120 mL,Congelados,Laive,4.4
+759,Hot Dog Laive Clásico Paquete 220 g,Embutidos,Laive,5.3
+760,Galletas Dulces Oreo Vainilla Paquete x6 Unidades,Panadería y Galletas,Oreo,4.3
+761,Chifles Marca Propia Picantes Bolsa 100 g,Snacks y Golosinas,Marca Propia,2.9
+762,Alimento para Perro Adulto Dog Chow Bolsa 15 Kg,Mascotas,Dog Chow,146.8
+763,Frijol Canario Costeño Bolsa 1 Kg,Abarrotes,Costeño,12.0
+764,Mayonesa Marca Propia Doypack 400 g,Abarrotes,Marca Propia,6.5
+765,Pallares Costeño Bolsa 1 Kg,Abarrotes,Costeño,19.3
+766,Gaseosa Inca Kola Botella 2.25 L,Bebidas,Inca Kola,8.5
+767,Sopa Instantánea Ajinomen Pollo Sobre 70 g,Abarrotes,Ajinomen,2.6
+768,Limpiatodo Sapolio Floral Botella 900 mL,Limpieza del Hogar,Sapolio,5.7
+769,Té McColin's Canela y Clavo Caja x25 Sobres,Abarrotes,McColin's,5.1
+770,Manjar Blanco Gloria Pote 250 g,Lácteos y Huevos,Gloria,7.9
+771,Queso Manchego Importado Cuña 200 g,Lácteos y Huevos,Importado,57.0
+772,Desodorante Nivea Roll-on 50 mL,Cuidado Personal,Nivea,14.1
+773,Infusión de Matico Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.9
+774,Arroz Extra Costeño Bolsa 750 g,Abarrotes,Costeño,3.9
+775,Plátano de la Isla x Kg,Frutas y Verduras,Sin marca,4.2
+776,Azúcar Blanca Paramonga Bolsa 5 Kg,Abarrotes,Paramonga,30.1
+777,Aceite Vegetal Friol Botella 1 L,Abarrotes,Friol,13.0
+778,Zanahoria x Kg,Frutas y Verduras,Sin marca,2.8
+779,Vino Intipalka Blanco Botella 750 mL,Licores,Intipalka,29.7
+780,Pan de Molde Marca Propia Integral Bolsa 400 g,Panadería y Galletas,Marca Propia,5.4
+781,Galletas Dulces Oreo Chocolate Paquete x12 Unidades,Panadería y Galletas,Oreo,7.6
+782,Fideos Spaghetti Molitalia Bolsa 250 g,Abarrotes,Molitalia,2.2
+783,Gelatina Royal Naranja Caja 140 g,Abarrotes,Royal,2.5
+784,Alimento para Perro Adulto Pedigree Bolsa 3 Kg,Mascotas,Pedigree,28.5
+785,Jamón Marca Propia Paquete 500 g,Embutidos,Marca Propia,17.4
+786,Jabón de Tocador Dove Unidad 90 g,Cuidado Personal,Dove,4.0
+787,Vino Santa Rita Rosado Botella 750 mL,Licores,Santa Rita,28.2
+788,Detergente en Polvo Ace Bolsa 4 Kg,Limpieza del Hogar,Ace,38.1
+789,Lejía Sapolio Botella 1 L,Limpieza del Hogar,Sapolio,4.5
+790,Aceite Vegetal Capri Botella 900 mL,Abarrotes,Capri,8.1
+791,Queso Gouda Importado Cuña 200 g,Lácteos y Huevos,Importado,47.4
+792,Fideo Instantáneo Nissin Mariscos Sobre 85 g,Abarrotes,Nissin,2.5
+793,Bebida Rehidratante Powerade Limón Botella 500 mL,Bebidas,Powerade,4.4
+794,Chorizo Otto Kunz Parrillero Paquete 250 g,Embutidos,Otto Kunz,14.3
+795,Sal de Mesa Emsal Bolsa 1 Kg,Abarrotes,Emsal,2.8
+796,Gaseosa Inca Kola Pack x6 Latas 355 mL,Bebidas,Inca Kola,14.0
+797,Pejerrey x Kg,"Carnes, Aves y Pescados",Sin marca,19.8
+798,Chocolate en Polvo Milo Tarro 400 g,Abarrotes,Milo,16.9
+799,Cerveza Corona Botella 630 mL,Licores,Corona,5.6
+800,Alimento para Perro Adulto Ricocan Bolsa 3 Kg,Mascotas,Ricocan,37.1
+801,Yogurt Gloria Vainilla Botella 1 L,Lácteos y Huevos,Gloria,7.6
+802,Helado D'Onofrio Lúcuma Pote 2.8 L,Congelados,D'Onofrio,29.8
+803,Leche Chocolatada Laive Caja 200 mL,Bebidas,Laive,2.8
+804,Vino Santiago Queirolo Blanco Botella 750 mL,Licores,Santiago Queirolo,28.4
+805,Vino Tacama Blanco Botella 750 mL,Licores,Tacama,32.6
+806,Hígado de Res x Kg,"Carnes, Aves y Pescados",Sin marca,13.4
+807,Nuggets de Pollo Marca Propia Bolsa 600 g,Congelados,Marca Propia,19.2
+808,Galletas Integrales Field Paquete x6 Unidades,Panadería y Galletas,Field,4.6
+809,Helado Laive Lúcuma Vasito 120 mL,Congelados,Laive,4.3
+810,Infusión de Anís Herbi Caja x25 Sobres,Abarrotes,Herbi,3.6
+811,Fideo Instantáneo Ajinomen Mariscos Vaso 65 g,Abarrotes,Ajinomen,2.5
+812,Alitas de Pollo Redondos Bandeja 500 g,"Carnes, Aves y Pescados",Redondos,8.8
+813,Pañales Babysec Talla RN Pack x50,Bebés,Babysec,59.4
+814,Agua Mineral Vida Con Gas Botella 625 mL,Bebidas,Vida,1.9
+815,Fideo Instantáneo Ajinomen Picante Sobre 85 g,Abarrotes,Ajinomen,1.9
+816,Pan de Molde Fargo Integral Bolsa 600 g,Panadería y Galletas,Fargo,7.4
+817,Agua Mineral Vida Sin Gas Botella 625 mL,Bebidas,Vida,2.0
+818,Nuggets de Pollo Marca Propia Bolsa 300 g,Congelados,Marca Propia,10.5
+819,Arveja Partida Costeño Bolsa 500 g,Abarrotes,Costeño,7.3
+820,Huevos Pardos San Fernando Pack x6,Lácteos y Huevos,San Fernando,3.5
+821,Yogurt Laive Lúcuma Vaso 150 g,Lácteos y Huevos,Laive,2.0
+822,Tocino Ahumado San Fernando Paquete 200 g,Embutidos,San Fernando,10.8
+823,Lavavajilla Marca Propia Aloe Pote 900 g,Limpieza del Hogar,Marca Propia,8.8
+824,Arroz Integral Valle Norte Bolsa 750 g,Abarrotes,Valle Norte,6.6
+825,Pasta Dental Colgate Tubo 150 mL,Cuidado Personal,Colgate,9.0
+826,Alfajor Marca Propia Unidad 40 g,Snacks y Golosinas,Marca Propia,1.5
+827,Queque Marca Propia Naranja Paquete 250 g,Panadería y Galletas,Marca Propia,4.9
+828,Pan de Molde Marca Propia Blanco Bolsa 600 g,Panadería y Galletas,Marca Propia,6.9
+829,Yogurt Griego Bella Holandesa Natural Vaso 140 g,Lácteos y Huevos,Bella Holandesa,3.9
+830,Fideo Instantáneo Ajinomen Picante Vaso 65 g,Abarrotes,Ajinomen,2.5
+831,Fideo Instantáneo Nissin Picante Vaso 65 g,Abarrotes,Nissin,3.6
+832,Huevos Pardos La Calera Pack x6,Lácteos y Huevos,La Calera,4.1
+833,Galletas Dulces Field Chocolate Paquete x6 Unidades,Panadería y Galletas,Field,4.3
+834,Chocolate Premium Marca Propia Amargo 70% Barra 100 g,Snacks y Golosinas,Marca Propia,8.7
+835,Huevos Blancos San Fernando Bandeja x30,Lácteos y Huevos,San Fernando,17.3
+836,Alimento para Cachorro Dog Chow Bolsa 8 Kg,Mascotas,Dog Chow,74.8
+837,Cañihua Costeño Bolsa 250 g,Abarrotes,Costeño,5.6
+838,Yogurt Pura Vida Cereal Botella 1 L,Lácteos y Huevos,Pura Vida,7.5
+839,Alimento para Perro Adulto Mimaskot Bolsa 15 Kg,Mascotas,Mimaskot,109.4
+840,Papel Higiénico Noble Pack x12 Rollos,Limpieza del Hogar,Noble,27.9
+841,Gaseosa Pepsi Lata 355 mL,Bebidas,Pepsi,2.8
+842,Choros x Kg,"Carnes, Aves y Pescados",Sin marca,13.5
+843,Queso Brie Importado Cuña 200 g,Lácteos y Huevos,Importado,46.3
+844,Lenguado x Kg,"Carnes, Aves y Pescados",Sin marca,40.5
+845,Leche Condensada Nestlé La Lechera Doypack 393 g,Lácteos y Huevos,Nestlé La Lechera,5.1
+846,Papilla Gerber Quinua Tarro 400 g,Bebés,Gerber,16.4
+847,Gaseosa Sprite Botella 3 L,Bebidas,Sprite,9.7
+848,Chocolate Premium Importado Amargo 70% Barra 100 g,Snacks y Golosinas,Importado,14.6
+849,Alimento para Perro Adulto Pedigree Bolsa 15 Kg,Mascotas,Pedigree,120.5
+850,Helado D'Onofrio Coco Vasito 120 mL,Congelados,D'Onofrio,3.7
+851,Papas Fritas Pringles Clásicas Bolsa 140 g,Snacks y Golosinas,Pringles,7.7
+852,Fórmula Infantil Enfamil Etapa 1 Tarro 400 g,Bebés,Enfamil,65.5
+853,Gaseosa Coca-Cola Botella 1.5 L,Bebidas,Coca-Cola,7.7
+854,Plátano Bellaco x Kg,Frutas y Verduras,Sin marca,3.4
+855,Fideo Instantáneo Maruchan Picante Vaso 65 g,Abarrotes,Maruchan,3.0
+856,Pañales Babysec Talla P Pack x50,Bebés,Babysec,59.6
+857,Arroz Extra Valle Norte Bolsa 750 g,Abarrotes,Valle Norte,5.4
+858,Café Molido Altomayo Bolsa 250 g,Abarrotes,Altomayo,13.5
+859,Mermelada Marca Propia Fresa Frasco 300 g,Abarrotes,Marca Propia,5.5
+860,Toallitas Húmedas Pampers Pack x80,Bebés,Pampers,13.8
+861,Aceite Vegetal Marca Propia Botella 3 L,Abarrotes,Marca Propia,24.2
+862,Jamonada Braedt Paquete 200 g,Embutidos,Braedt,7.8
+863,Fideos Spaghetti Lavaggi Bolsa 250 g,Abarrotes,Lavaggi,3.0
+864,Agua Mineral Vida Sin Gas Bidón 7 L,Bebidas,Vida,5.4
+865,Queso Mozzarella Bella Holandesa Bolsa 250 g,Lácteos y Huevos,Bella Holandesa,12.1
+866,Arveja Partida Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,6.8
+867,Cereal de Maíz Ángel Corn Flakes Caja 500 g,Abarrotes,Ángel,12.8
+868,Yogurt Pura Vida Vainilla Botella 1 L,Lácteos y Huevos,Pura Vida,7.5
+869,Verduras Mixtas Congeladas Marca Propia Bolsa 500 g,Congelados,Marca Propia,7.1
+870,Detergente en Polvo Opal Bolsa 4 Kg,Limpieza del Hogar,Opal,50.6
+871,Zapallo Loche x Kg,Frutas y Verduras,Sin marca,3.7
+872,Helado Laive Fresa Pote 1 L,Congelados,Laive,14.5
+873,Cerveza Corona Pack x6 Latas 473 mL,Licores,Corona,20.4
+874,Chorizo San Fernando Español Paquete 250 g,Embutidos,San Fernando,12.9
+875,Néctar Frugos Piña Caja 200 mL,Bebidas,Frugos,1.5
+876,Bebida Rehidratante Gatorade Frutas Tropicales Botella 1 L,Bebidas,Gatorade,5.1
+877,Afeitadora Descartable Gillette Pack x4,Cuidado Personal,Gillette,8.4
+878,Pisco Ocucaje Quebranta Botella 750 mL,Licores,Ocucaje,57.7
+879,Esponja Marca Propia Pack x3,Limpieza del Hogar,Marca Propia,4.1
+880,Queso Mozzarella Gloria Bolsa 250 g,Lácteos y Huevos,Gloria,9.2
+881,Haba Seca Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,14.9
+882,Gaseosa Pepsi Botella 2.25 L,Bebidas,Pepsi,10.1
+883,Refresco en Polvo Kanu Maracuyá Sobre 25 g,Bebidas,Kanu,0.8
+884,Caldo de Gallina Knorr Caja x12 Cubos,Abarrotes,Knorr,4.5
+885,Agua Mineral San Luis Sin Gas Botella 625 mL,Bebidas,San Luis,2.4
+886,Culantro x Atado,Frutas y Verduras,Sin marca,1.6
+887,Atún Marca Propia Desmenuzado Lata 140 g,Abarrotes,Marca Propia,4.2
+888,Queque Bimbo Vainilla Paquete 250 g,Panadería y Galletas,Bimbo,5.6
+889,Cerveza Cristal Pack x12 Latas 473 mL,Licores,Cristal,45.9
+890,Cereal de Maíz Ángel Azucarado Caja 500 g,Abarrotes,Ángel,12.3
+891,Yogurt Bella Holandesa Fresa Vaso 150 g,Lácteos y Huevos,Bella Holandesa,3.0
+892,Filete de Pechuga San Fernando x Kg,"Carnes, Aves y Pescados",San Fernando,25.3
+893,Insecticida Baygon Aerosol 360 mL,Limpieza del Hogar,Baygon,17.9
+894,Chicha Morada Envasada Marca Propia Botella 1 L,Bebidas,Marca Propia,4.8
+895,Granada x Kg,Frutas y Verduras,Sin marca,11.8
+896,Pavo Marca Propia x Kg,"Carnes, Aves y Pescados",Marca Propia,16.0
+897,Sopa Instantánea Maggi Criolla Sobre 70 g,Abarrotes,Maggi,2.5
+898,Limpiatodo Sapolio Pino Botella 900 mL,Limpieza del Hogar,Sapolio,5.6
+899,Arroz Extra Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,5.1
+900,Frijol Negro Costeño Bolsa 500 g,Abarrotes,Costeño,6.3
+901,Leche UHT Deslactosada Gloria Caja 1 L,Lácteos y Huevos,Gloria,5.1
+902,Cheetos Cheetos Queso Bolsa 40 g,Snacks y Golosinas,Cheetos,1.6
+903,Gaseosa Coca-Cola Pack x6 Latas 355 mL,Bebidas,Coca-Cola,17.5
+904,Gelatina Royal Limón Caja 140 g,Abarrotes,Royal,2.8
+905,Toallas Higiénicas Kotex Paquete x16,Cuidado Personal,Kotex,5.7
+906,Compota Gerber Plátano Pote 113 g,Bebés,Gerber,3.8
+907,Fideos Codo Lavaggi Bolsa 500 g,Abarrotes,Lavaggi,3.7
+908,Pisco Tabernero Italia Botella 750 mL,Licores,Tabernero,54.6
+909,Néctar Pulp Manzana Caja 1 L,Bebidas,Pulp,6.0
+910,Yogurt Bella Holandesa Fresa Botella 1 L,Lácteos y Huevos,Bella Holandesa,8.2
+911,Gelatina Royal Fresa Caja 140 g,Abarrotes,Royal,2.5
+912,Papel Higiénico Marca Propia Pack x12 Rollos,Limpieza del Hogar,Marca Propia,19.5
+913,Caballa Florida en Salsa de Tomate Lata 425 g,Abarrotes,Florida,6.2
+914,Haba Seca Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,9.9
+915,Hamburguesas San Fernando Caja x8,Congelados,San Fernando,23.0
+916,Alitas de Pollo San Fernando x Kg,"Carnes, Aves y Pescados",San Fernando,16.6
+917,Néctar Frugos Naranja Caja 200 mL,Bebidas,Frugos,1.4
+918,Shampoo Head & Shoulders Botella 400 mL,Cuidado Personal,Head & Shoulders,15.9
+919,Mermelada Marca Propia Aguaymanto Frasco 300 g,Abarrotes,Marca Propia,5.3
+920,Quinua Cuisine & Co Bolsa 500 g,Abarrotes,Cuisine & Co,11.3
+921,Pañales Pampers Talla XG Pack x50,Bebés,Pampers,66.2
+922,Néctar Pulp Mango Caja 1 L,Bebidas,Pulp,6.0
+923,Coliflor x Kg,Frutas y Verduras,Sin marca,5.0
+924,Jamón Braedt Paquete 200 g,Embutidos,Braedt,12.0
+925,Conchas de Abanico x Kg,"Carnes, Aves y Pescados",Sin marca,47.0
+926,Hot Dog Laive Clásico Paquete 450 g,Embutidos,Laive,9.4
+927,Cheetos Cheetos Flamin Hot Bolsa 40 g,Snacks y Golosinas,Cheetos,1.6
+928,Helado D'Onofrio Lúcuma Vasito 120 mL,Congelados,D'Onofrio,3.8
+929,Servilletas Scott Paquete x100,Limpieza del Hogar,Scott,3.0
+930,Mortadela Braedt Paquete 200 g,Embutidos,Braedt,5.1
+931,Pasta Dental Oral-B Tubo 150 mL,Cuidado Personal,Oral-B,10.9
+932,Pulpo x Kg,"Carnes, Aves y Pescados",Sin marca,51.4
+933,Mermelada Fanny Mora Frasco 300 g,Abarrotes,Fanny,7.4
+934,Alimento para Perro Adulto Dog Chow Bolsa 3 Kg,Mascotas,Dog Chow,36.0
+935,Crema de Leche Gloria Caja 200 g,Lácteos y Huevos,Gloria,6.1
+936,Shampoo Head & Shoulders Sachet 12 mL,Cuidado Personal,Head & Shoulders,1.5
+937,Papel Higiénico Premium Scott Pack x12 Rollos,Cuidado Personal,Scott,32.4
+938,Helado Marca Propia Fresa Pote 1 L,Congelados,Marca Propia,13.1
+939,Gaseosa Guaraná Botella 1.5 L,Bebidas,Guaraná,5.9
+940,Hot Dog San Fernando Huachana Paquete 220 g,Embutidos,San Fernando,5.3
+941,Yogurt Pura Vida Plátano Botella 1 L,Lácteos y Huevos,Pura Vida,7.9
+942,Helado Laive Lúcuma Pote 1 L,Congelados,Laive,13.2
+943,Café Instantáneo Nescafé Clásico Frasco 50 g,Abarrotes,Nescafé,8.9
+944,Servilletas Elite Paquete x100,Limpieza del Hogar,Elite,4.0
+945,Mantequilla Laive Pote 400 g,Lácteos y Huevos,Laive,18.5
+946,Quinua Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,7.6
+947,Gaseosa Kola Real Botella 500 mL,Bebidas,Kola Real,4.0
+948,Cerveza Cusqueña Lata 473 mL,Licores,Cusqueña,4.8
+949,Gelatina Marca Propia Fresa Caja 140 g,Abarrotes,Marca Propia,2.3
+950,Haba Seca Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,8.5
+951,Chocolate Premium Marca Propia con Leche Barra 100 g,Snacks y Golosinas,Marca Propia,8.6
+952,Agua Mineral San Luis Con Gas Botella 625 mL,Bebidas,San Luis,2.2
+953,Agua Mineral Cielo Sin Gas Bidón 7 L,Bebidas,Cielo,6.5
+954,Sandía x Kg,Frutas y Verduras,Sin marca,2.8
+955,Gaseosa Guaraná Lata 355 mL,Bebidas,Guaraná,2.3
+956,Orégano Marca Propia Sachet 20 g,Abarrotes,Marca Propia,1.6
+957,Espinaca x Atado,Frutas y Verduras,Sin marca,2.1
+958,Jabón de Tocador Camay Pack x3,Cuidado Personal,Camay,8.3
+959,Harina sin Preparar Blanca Flor Bolsa 1 Kg,Abarrotes,Blanca Flor,4.1
+960,Vino Casillero del Diablo Blanco Botella 750 mL,Licores,Casillero del Diablo,37.0
+961,Garbanzo Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,12.0
+962,Arveja Partida Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,5.0
+963,Haba Seca Costeño Bolsa 500 g,Abarrotes,Costeño,6.0
+964,Helado Marca Propia Coco Pote 2.8 L,Congelados,Marca Propia,29.9
+965,Desodorante Axe Aerosol 150 mL,Cuidado Personal,Axe,21.2
+966,Vino Tacama Rosado Botella 750 mL,Licores,Tacama,34.9
+967,Papas Fritas Lay's Pollo Bolsa 40 g,Snacks y Golosinas,Lay's,2.0
+968,Chorizo Braedt Español Paquete 250 g,Embutidos,Braedt,10.6
+969,Suavizante Sapolio Doypack 800 mL,Limpieza del Hogar,Sapolio,6.7
+970,Maní Tostado Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,6.0
+971,Pisco Tabernero Mosto Verde Botella 750 mL,Licores,Tabernero,55.3
+972,Azúcar Rubia Laredo Bolsa 5 Kg,Abarrotes,Laredo,22.9
+973,Agua Mineral San Luis Con Gas Bidón 7 L,Bebidas,San Luis,5.7
+974,Hot Dog Laive Huachana Paquete 220 g,Embutidos,Laive,5.6
+975,Néctar Cifrut Durazno Caja 200 mL,Bebidas,Cifrut,1.3
+976,Huevos Pardos La Calera Bandeja x30,Lácteos y Huevos,La Calera,16.8
+977,Néctar Gloria Durazno Caja 200 mL,Bebidas,Gloria,1.8
+978,Pisco Tabernero Quebranta Botella 750 mL,Licores,Tabernero,53.3
+979,Jabón de Tocador Protex Unidad 90 g,Cuidado Personal,Protex,3.0
+980,Pisco Queirolo Acholado Botella 750 mL,Licores,Queirolo,55.0
+981,Papas Fritas Pringles Clásicas Bolsa 40 g,Snacks y Golosinas,Pringles,2.6
+982,Gaseosa Kola Real Lata 355 mL,Bebidas,Kola Real,3.3
+983,Papas Fritas Marca Propia Clásicas Bolsa 140 g,Snacks y Golosinas,Marca Propia,4.9
+984,Gaseosa Zero Coca-Cola Botella 500 mL,Bebidas,Coca-Cola,3.0
+985,Jabón de Tocador Palmolive Pack x3,Cuidado Personal,Palmolive,9.3
+986,Pisco Queirolo Mosto Verde Botella 750 mL,Licores,Queirolo,54.5
+987,Pollo Entero San Fernando x Kg,"Carnes, Aves y Pescados",San Fernando,11.0
+988,Cerveza Cusqueña Pack x6 Latas 473 mL,Licores,Cusqueña,25.5
+989,Gaseosa Pepsi Botella 1.5 L,Bebidas,Pepsi,7.0
+990,Alimento para Cachorro Ricocan Bolsa 8 Kg,Mascotas,Ricocan,76.1
+991,Sazonador Ajinomoto Sachet 100 g,Abarrotes,Ajinomoto,2.5
+992,Galletas Dulces Costa Coco Paquete x6 Unidades,Panadería y Galletas,Costa,3.4
+993,Leche UHT Entera Gloria Caja 1 L,Lácteos y Huevos,Gloria,4.3
+994,Gaseosa Coca-Cola Lata 355 mL,Bebidas,Coca-Cola,3.2
+995,Papilla Cerelac Arroz Tarro 400 g,Bebés,Cerelac,15.3
+996,Ajo en Polvo Alacena Sachet 20 g,Abarrotes,Alacena,2.6
+997,Agua Mineral San Luis Con Gas Pack x6 Botellas 625 mL,Bebidas,San Luis,11.4
+998,Gelatina Royal Piña Caja 140 g,Abarrotes,Royal,2.7
+999,Leche UHT Entera Gloria Pack x6 Cajas 1 L,Lácteos y Huevos,Gloria,23.4
+1000,Agua Mineral Cielo Sin Gas Pack x6 Botellas 625 mL,Bebidas,Cielo,12.0
+1001,Huevos Pardos San Fernando Pack x12,Lácteos y Huevos,San Fernando,6.1
+1002,Fideo Instantáneo Nissin Mariscos Vaso 65 g,Abarrotes,Nissin,3.8
+1003,Chirimoya x Kg,Frutas y Verduras,Sin marca,9.7
+1004,Leche UHT Entera Laive Caja 1 L,Lácteos y Huevos,Laive,5.9
+1005,Ají Amarillo x Kg,Frutas y Verduras,Sin marca,9.4
+1006,Galletas Dulces Oreo Chocolate Paquete x6 Unidades,Panadería y Galletas,Oreo,4.0
+1007,Shampoo Pantene Sachet 12 mL,Cuidado Personal,Pantene,2.1
+1008,Lavavajilla Ayudín Aloe Pote 500 g,Limpieza del Hogar,Ayudín,5.9
+1009,Chifles Karinto Picantes Bolsa 100 g,Snacks y Golosinas,Karinto,4.3
+1010,Maca en Polvo Cuisine & Co Bolsa 250 g,Abarrotes,Cuisine & Co,10.3
+1011,Gaseosa Inca Kola Botella 1.5 L,Bebidas,Inca Kola,7.1
+1012,Atún Florida Desmenuzado Lata 140 g,Abarrotes,Florida,4.6
+1013,Mermelada Gloria Fresa Frasco 300 g,Abarrotes,Gloria,7.9
+1014,Café Instantáneo Altomayo Descafeinado Frasco 100 g,Abarrotes,Altomayo,18.5
+1015,Garbanzo Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,14.1
+1016,Atún Primor Filete en Aceite Lata 170 g,Abarrotes,Primor,5.6
+1017,Agua Mineral San Mateo Sin Gas Botella 625 mL,Bebidas,San Mateo,2.0
+1018,Arveja Partida Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,8.4
+1019,Pizza Congelada Importado Mozzarella Unidad 400 g,Congelados,Importado,30.2
+1020,Bebida Rehidratante Gatorade Limón Botella 500 mL,Bebidas,Gatorade,2.8
+1021,Ají en Pasta Tarí Rocoto Doypack 200 g,Abarrotes,Tarí,5.7
+1022,Uva Thompson x Kg,Frutas y Verduras,Sin marca,10.1
+1023,Crema Corporal Nivea Frasco 400 mL,Cuidado Personal,Nivea,15.5
+1024,Hot Dog Laive Cocktail Paquete 220 g,Embutidos,Laive,5.6
+1025,Pan para Hot Dog Bimbo Bolsa x6,Panadería y Galletas,Bimbo,8.0
+1026,Atún Florida Filete en Aceite Lata 140 g,Abarrotes,Florida,4.7
+1027,Papel Higiénico Paracas Pack x4 Rollos,Limpieza del Hogar,Paracas,7.4
+1028,Aceite Vegetal Cocinero Botella 900 mL,Abarrotes,Cocinero,7.4
+1029,Yogurt Gloria Fresa Botella 1 L,Lácteos y Huevos,Gloria,8.0
+1030,Bonito x Kg,"Carnes, Aves y Pescados",Sin marca,14.9
+1031,Lavavajilla Ayudín Aloe Pote 900 g,Limpieza del Hogar,Ayudín,9.6
+1032,Palillo Molido Marca Propia Sachet 20 g,Abarrotes,Marca Propia,2.1
+1033,Alimento para Gato Cat Chow Bolsa 1.5 Kg,Mascotas,Cat Chow,26.5
+1034,Queso Fresco Marca Propia Paquete 500 g,Lácteos y Huevos,Marca Propia,13.6
+1035,Lúcuma x Kg,Frutas y Verduras,Sin marca,8.4
+1036,Pizza Congelada Importado Pepperoni Unidad 400 g,Congelados,Importado,28.5
+1037,Uva Red Globe x Kg,Frutas y Verduras,Sin marca,11.6
+1038,Néctar Frugos Multifruta Caja 1 L,Bebidas,Frugos,5.0
+1039,Doritos Doritos Picante Bolsa 150 g,Snacks y Golosinas,Doritos,5.5
+1040,Lejía Clorox Botella 1 L,Limpieza del Hogar,Clorox,4.3
+1041,Pisco Ocucaje Italia Botella 750 mL,Licores,Ocucaje,61.0
+1042,Nueces Cuisine & Co Bolsa 200 g,Abarrotes,Cuisine & Co,13.8
+1043,Leche Evaporada Ideal Lata 395 g,Lácteos y Huevos,Ideal,3.7
+1044,Papas Fritas Marca Propia Pollo Bolsa 40 g,Snacks y Golosinas,Marca Propia,1.7
+1045,Ají en Pasta Alacena Panca Doypack 200 g,Abarrotes,Alacena,6.1
+1046,Hot Dog San Fernando Clásico Paquete 220 g,Embutidos,San Fernando,5.5
+1047,Ají en Pasta Marca Propia Rocoto Doypack 200 g,Abarrotes,Marca Propia,4.2
+1048,Crema de Leche Laive Caja 200 g,Lácteos y Huevos,Laive,4.0
+1049,Espárragos en Conserva Marca Propia Frasco 340 g,Abarrotes,Marca Propia,9.6
+1050,Caldo de Gallina Marca Propia Caja x12 Cubos,Abarrotes,Marca Propia,4.2
+1051,Orégano Sibarita Sachet 20 g,Abarrotes,Sibarita,2.1
+1052,Pan para Hot Dog Fargo Bolsa x6,Panadería y Galletas,Fargo,6.8
+1053,Pasas Cuisine & Co Bolsa 200 g,Abarrotes,Cuisine & Co,9.4
+1054,Cereal de Maíz Nestlé Chocolate Caja 500 g,Abarrotes,Nestlé,14.1
+1055,Cerveza Cristal Lata 473 mL,Licores,Cristal,4.3
+1056,Chocolate en Barra Princesa Pack x6 Unidades,Snacks y Golosinas,Princesa,10.1
+1057,Bebida Rehidratante Sporade Naranja Botella 500 mL,Bebidas,Sporade,3.8
+1058,Helado Marca Propia Coco Pote 1 L,Congelados,Marca Propia,12.9
+1059,Suavizante Suavitel Doypack 800 mL,Limpieza del Hogar,Suavitel,10.2
+1060,Harina sin Preparar Nicolini Bolsa 1 Kg,Abarrotes,Nicolini,3.9
+1061,Refresco en Polvo Tang Chicha Sobre 25 g,Bebidas,Tang,0.8
+1062,Cerveza Heineken Pack x12 Latas 473 mL,Licores,Heineken,45.2
+1063,Arena Sanitaria Cat Chow Bolsa 4 Kg,Mascotas,Cat Chow,14.9
+1064,Pasta Dental Kolynos Tubo 75 mL,Cuidado Personal,Kolynos,6.5
+1065,Avena en Hojuelas Quaker Bolsa 300 g,Abarrotes,Quaker,4.1
+1066,Fideos Cabello de Ángel Lavaggi Bolsa 250 g,Abarrotes,Lavaggi,2.8
+1067,Desodorante Axe Roll-on 50 mL,Cuidado Personal,Axe,13.5
+1068,Atún Marca Propia Trozos en Agua Lata 140 g,Abarrotes,Marca Propia,4.3
+1069,Cerveza Corona Lata 473 mL,Licores,Corona,3.7
+1070,Pan Hamburguesa Fargo Bolsa x6,Panadería y Galletas,Fargo,7.2
+1071,Rabanito x Atado,Frutas y Verduras,Sin marca,1.8
+1072,Almendras Marca Propia Bolsa 200 g,Abarrotes,Marca Propia,14.6
+1073,Fideo Instantáneo Maruchan Picante Sobre 85 g,Abarrotes,Maruchan,1.9
+1074,Pallares Valle Norte Bolsa 1 Kg,Abarrotes,Valle Norte,15.8
+1075,Yogurt Laive Durazno Vaso 150 g,Lácteos y Huevos,Laive,2.1
+1076,Leche Condensada Gloria Tarro 393 g,Lácteos y Huevos,Gloria,5.7
+1077,Alitas de Pollo San Fernando Bandeja 500 g,"Carnes, Aves y Pescados",San Fernando,8.9
+1078,Cañihua Marca Propia Bolsa 250 g,Abarrotes,Marca Propia,5.4
+1079,Cereal de Maíz Nestlé Corn Flakes Caja 500 g,Abarrotes,Nestlé,13.3
+1080,Fideos Tornillo Molitalia Bolsa 500 g,Abarrotes,Molitalia,3.2
+1081,Fideo Instantáneo Ajinomen Pollo Vaso 65 g,Abarrotes,Ajinomen,2.7
+1082,Néctar Frugos Piña Caja 1 L,Bebidas,Frugos,4.5
+1083,Atún Campomar Trozos en Agua Lata 140 g,Abarrotes,Campomar,5.7
+1084,Caballa Primor al Natural Lata 425 g,Abarrotes,Primor,6.4
+1085,Cereal de Maíz Ángel Corn Flakes Caja 250 g,Abarrotes,Ángel,8.1
+1086,Cecina x Kg,"Carnes, Aves y Pescados",Sin marca,38.3
+1087,Pisco Ocucaje Mosto Verde Botella 750 mL,Licores,Ocucaje,55.6
+1088,Arroz Extra Marca Propia Bolsa 5 Kg,Abarrotes,Marca Propia,18.4
+1089,Aceite de Oliva Extra Virgen Importado Botella 500 mL,Abarrotes,Importado,45.0
+1090,Chifles Karinto Salados Bolsa 100 g,Snacks y Golosinas,Karinto,3.9
+1091,Yogurt Pura Vida Lúcuma Botella 1 L,Lácteos y Huevos,Pura Vida,7.5
+1092,Salsa de Tomate Don Vittorio Doypack 190 g,Abarrotes,Don Vittorio,3.3
+1093,Pimiento Rojo x Kg,Frutas y Verduras,Sin marca,9.3
+1094,Shampoo Marca Propia Botella 400 mL,Cuidado Personal,Marca Propia,14.6
+1095,Pañales Pampers Talla RN Pack x50,Bebés,Pampers,62.5
+1096,Café Instantáneo Kirma Descafeinado Frasco 50 g,Abarrotes,Kirma,8.3
+1097,Pañales Babysec Talla G Pack x50,Bebés,Babysec,60.6
+1098,Compota Gerber Pollo con Verduras Pote 113 g,Bebés,Gerber,3.6
+1099,Hot Dog Otto Kunz Cocktail Paquete 450 g,Embutidos,Otto Kunz,9.4
+1100,Café Instantáneo Nescafé Clásico Frasco 100 g,Abarrotes,Nescafé,15.0
+1101,Espárragos en Conserva Importado Frasco 340 g,Abarrotes,Importado,18.8
+1102,Leche Evaporada Pura Vida Lata 170 g,Lácteos y Huevos,Pura Vida,2.6
+1103,Fideo Instantáneo Ajinomen Carne Vaso 65 g,Abarrotes,Ajinomen,2.6
+1104,Kétchup Heinz Doypack 400 g,Abarrotes,Heinz,6.2
+1105,Papas Fritas Congeladas McCain Bolsa 1 Kg,Congelados,McCain,18.6
+1106,Agua Mineral Vida Sin Gas Pack x6 Botellas 625 mL,Bebidas,Vida,10.7
+1107,Azúcar Blanca Cartavio Bolsa 5 Kg,Abarrotes,Cartavio,24.3
+1108,Mermelada Fanny Piña Frasco 300 g,Abarrotes,Fanny,7.4
+1109,Vino Santiago Queirolo Rosado Botella 750 mL,Licores,Santiago Queirolo,27.6
+1110,Fórmula Infantil Similac Etapa 2 Tarro 400 g,Bebés,Similac,84.1
+1111,Queso Andino Laive Paquete 250 g,Lácteos y Huevos,Laive,8.2
+1112,Insecticida Raid Aerosol 360 mL,Limpieza del Hogar,Raid,13.1
+1113,Gaseosa Inca Kola Botella 500 mL,Bebidas,Inca Kola,3.3
+1114,Hot Dog Laive Huachana Paquete 450 g,Embutidos,Laive,10.4
+1115,Detergente en Polvo Marsella Bolsa 2 Kg,Limpieza del Hogar,Marsella,25.6
+1116,Papel Higiénico Noble Pack x4 Rollos,Limpieza del Hogar,Noble,10.1
+1117,Néctar Pulp Piña Caja 1 L,Bebidas,Pulp,6.4
+1118,Cheetos Cheetos Flamin Hot Bolsa 140 g,Snacks y Golosinas,Cheetos,4.7
+1119,Limpiatodo Mr Músculo Floral Botella 900 mL,Limpieza del Hogar,Mr Músculo,4.9
+1120,Galletas Dulces Costa Vainilla Paquete x12 Unidades,Panadería y Galletas,Costa,5.7
+1121,Vino Casillero del Diablo Tinto Botella 750 mL,Licores,Casillero del Diablo,38.3
+1122,Papas Fritas Lay's Clásicas Bolsa 140 g,Snacks y Golosinas,Lay's,5.4
+1123,Helado D'Onofrio Coco Pote 1 L,Congelados,D'Onofrio,12.7
+1124,Detergente en Polvo Marca Propia Bolsa 800 g,Limpieza del Hogar,Marca Propia,9.3
+1125,Detergente en Polvo Ace Bolsa 2 Kg,Limpieza del Hogar,Ace,21.8
+1126,Azúcar Blanca Cartavio Bolsa 1 Kg,Abarrotes,Cartavio,5.1
+1127,Arena Sanitaria Marca Propia Bolsa 4 Kg,Mascotas,Marca Propia,13.4
+1128,Protector Solar Eucerin Frasco 120 mL,Cuidado Personal,Eucerin,52.0
+1129,Gaseosa Coca-Cola Botella 500 mL,Bebidas,Coca-Cola,3.6
+1130,Helado D'Onofrio Fresa Vasito 120 mL,Congelados,D'Onofrio,3.6
+1131,Leche en Polvo Nido Bolsa 800 g,Lácteos y Huevos,Nido,39.4
+1132,Yogurt Griego Gloria Arándano Vaso 140 g,Lácteos y Huevos,Gloria,3.7
+1133,Cerveza Pilsen Callao Botella 630 mL,Licores,Pilsen Callao,7.0
+1134,Mantequilla Bella Holandesa Pote 400 g,Lácteos y Huevos,Bella Holandesa,21.9
+1135,Cereal de Maíz Nestlé Azucarado Caja 500 g,Abarrotes,Nestlé,13.9
+1136,Infusión de Muña Herbi Caja x25 Sobres,Abarrotes,Herbi,3.8
+1137,Hot Dog Braedt Huachana Paquete 220 g,Embutidos,Braedt,6.8
+1138,Infusión de Cedrón Filtrante Caja x25 Sobres,Abarrotes,Filtrante,3.8
+1139,Fideo Instantáneo Maruchan Pollo Vaso 65 g,Abarrotes,Maruchan,2.6
+1140,Leche Evaporada Ideal Lata 170 g,Lácteos y Huevos,Ideal,2.0
+1141,Gaseosa Sprite Botella 1.5 L,Bebidas,Sprite,6.2
+1142,Atún Primor Trozos en Agua Lata 140 g,Abarrotes,Primor,4.7
+1143,Leche en Polvo Gloria Bolsa 800 g,Lácteos y Huevos,Gloria,37.6
+1144,Detergente en Polvo Marsella Bolsa 4 Kg,Limpieza del Hogar,Marsella,42.9
+1145,Lavavajilla Sapolio Limón Pote 500 g,Limpieza del Hogar,Sapolio,8.8
+1146,Gaseosa Sprite Pack x6 Latas 355 mL,Bebidas,Sprite,11.8
+1147,Sopa Instantánea Ajinomen Criolla Sobre 70 g,Abarrotes,Ajinomen,2.6
+1148,Frijol Negro Costeño Bolsa 1 Kg,Abarrotes,Costeño,10.9
+1149,Gaseosa Guaraná Botella 500 mL,Bebidas,Guaraná,3.0
+1150,Canchita Serrana Marca Propia Bolsa 120 g,Snacks y Golosinas,Marca Propia,3.3
+1151,Cebolla China x Atado,Frutas y Verduras,Sin marca,1.9
+1152,Néctar Gloria Multifruta Caja 1 L,Bebidas,Gloria,5.9
+1153,Gaseosa Coca-Cola Botella 2.25 L,Bebidas,Coca-Cola,9.9
+1154,Bebida Rehidratante Powerade Frutas Tropicales Botella 500 mL,Bebidas,Powerade,4.6
+1155,Ambientador Poett Lavanda Aerosol 360 mL,Limpieza del Hogar,Poett,11.0
+1156,Whisky Chivas Regal Botella 750 mL,Licores,Chivas Regal,119.7
+1157,Yogurt Bella Holandesa Cereal Vaso 150 g,Lácteos y Huevos,Bella Holandesa,2.8
+1158,Gaseosa Kola Real Botella 1.5 L,Bebidas,Kola Real,8.5
+1159,Yogurt Gloria Fresa Vaso 150 g,Lácteos y Huevos,Gloria,2.9
+1160,Granadilla x Kg,Frutas y Verduras,Sin marca,9.0
+1161,Yogurt Laive Durazno Botella 1 L,Lácteos y Huevos,Laive,5.9
+1162,Lejía Marca Propia Botella 4 L,Limpieza del Hogar,Marca Propia,12.7
+1163,Papas Fritas Marca Propia Clásicas Bolsa 40 g,Snacks y Golosinas,Marca Propia,1.9
+1164,Mostaza Heinz Doypack 200 g,Abarrotes,Heinz,4.2
+1165,Shampoo para Bebé Johnson's Botella 200 mL,Bebés,Johnson's,16.3
+1166,Hot Dog San Fernando Huachana Paquete 450 g,Embutidos,San Fernando,9.7
+1167,Hot Dog San Fernando Cocktail Paquete 220 g,Embutidos,San Fernando,5.4
+1168,Pisco Portón Quebranta Botella 750 mL,Licores,Portón,57.8
+1169,Queso Mozzarella Bella Holandesa Bolsa 500 g,Lácteos y Huevos,Bella Holandesa,23.1
+1170,Galletas Dulces Oreo Coco Paquete x6 Unidades,Panadería y Galletas,Oreo,4.1
+1171,Frijol Negro Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,6.6
+1172,Lenteja Marca Propia Bolsa 500 g,Abarrotes,Marca Propia,5.1
+1173,Fideos Cabello de Ángel Molitalia Bolsa 250 g,Abarrotes,Molitalia,2.8
+1174,Palillo Molido Alacena Sachet 20 g,Abarrotes,Alacena,3.2
+1175,Té McColin's Verde Caja x25 Sobres,Abarrotes,McColin's,5.1
+1176,Vino Santa Rita Tinto Botella 750 mL,Licores,Santa Rita,29.3
+1177,Fideos Tornillo Lavaggi Bolsa 500 g,Abarrotes,Lavaggi,3.7
+1178,Alfajor D'Onofrio Pack x6,Snacks y Golosinas,D'Onofrio,10.1
+1179,Néctar Frugos Mango Caja 1 L,Bebidas,Frugos,4.9
+1180,Galletas Dulces Field Chocolate Paquete x12 Unidades,Panadería y Galletas,Field,7.4
+1181,Pañales Babysec Talla M Pack x50,Bebés,Babysec,63.2
+1182,Pan Hamburguesa Bimbo Bolsa x6,Panadería y Galletas,Bimbo,5.8
+1183,Helado D'Onofrio Chocolate Vasito 120 mL,Congelados,D'Onofrio,3.6
+1184,Clavo de Olor Marca Propia Sachet 20 g,Abarrotes,Marca Propia,1.7
+1185,Filete de Pechuga Redondos x Kg,"Carnes, Aves y Pescados",Redondos,25.9
+1186,Helado D'Onofrio Vainilla Vasito 120 mL,Congelados,D'Onofrio,3.8
+1187,Queso Fresco Laive Paquete 250 g,Lácteos y Huevos,Laive,9.7
+1188,Gaseosa Fanta Botella 2.25 L,Bebidas,Fanta,10.6
+1189,Leche Evaporada Nestlé Lata 170 g,Lácteos y Huevos,Nestlé,1.9
+1190,Alimento para Perro Adulto Pedigree Bolsa 8 Kg,Mascotas,Pedigree,61.9
+1191,Atún Campomar Filete en Aceite Lata 170 g,Abarrotes,Campomar,6.8
+1192,Detergente en Polvo Opal Bolsa 2 Kg,Limpieza del Hogar,Opal,26.8
+1193,Lenteja Costeño Bolsa 500 g,Abarrotes,Costeño,7.8
+1194,Clavo de Olor Alacena Sachet 20 g,Abarrotes,Alacena,2.4
+1195,Desinfectante Sapolio Botella 900 mL,Limpieza del Hogar,Sapolio,6.4
+1196,Vino Marca Propia Tinto Botella 750 mL,Licores,Marca Propia,26.0
+1197,Palta Fuerte x Kg,Frutas y Verduras,Sin marca,8.2
+1198,Limpiatodo Mr Músculo Pino Botella 900 mL,Limpieza del Hogar,Mr Músculo,5.3
+1199,Orégano Alacena Sachet 20 g,Abarrotes,Alacena,2.1
+1200,Mermelada Marca Propia Mora Frasco 300 g,Abarrotes,Marca Propia,5.2
+1201,Cepillo Dental Marca Propia Pack x2,Cuidado Personal,Marca Propia,7.2
+1202,Chorizo Braedt Parrillero Paquete 250 g,Embutidos,Braedt,10.8
+1203,Refresco en Polvo Marca Propia Chicha Sobre 25 g,Bebidas,Marca Propia,0.7
+1204,Helado Laive Chocolate Pote 1 L,Congelados,Laive,13.9
+1205,Queso Roquefort Importado Cuña 200 g,Lácteos y Huevos,Importado,63.6
+1206,Fideos Canuto Don Vittorio Bolsa 500 g,Abarrotes,Don Vittorio,4.9
+1207,Fideo Instantáneo Maruchan Mariscos Vaso 65 g,Abarrotes,Maruchan,2.9
+1208,Yogurt Pura Vida Plátano Vaso 150 g,Lácteos y Huevos,Pura Vida,2.6
+1209,Vino Casillero del Diablo Rosado Botella 750 mL,Licores,Casillero del Diablo,37.5
+1210,Shampoo Dove Botella 650 mL,Cuidado Personal,Dove,34.6
+1211,Canela Molida Sibarita Sachet 20 g,Abarrotes,Sibarita,1.9
+1212,Pechuga de Pollo Marca Propia x Kg,"Carnes, Aves y Pescados",Marca Propia,14.3
+1213,Yogurt Laive Fresa Botella 1 L,Lácteos y Huevos,Laive,5.8
+1214,Fideo Instantáneo Maruchan Mariscos Sobre 85 g,Abarrotes,Maruchan,2.0
+1215,Caramelos Marca Propia Menta Bolsa 100 g,Snacks y Golosinas,Marca Propia,2.7
+1216,Papas Fritas Marca Propia Queso Bolsa 140 g,Snacks y Golosinas,Marca Propia,5.3
+1217,Hierbabuena x Atado,Frutas y Verduras,Sin marca,1.0
+1218,Rocoto x Kg,Frutas y Verduras,Sin marca,7.6
+1219,Néctar Gloria Naranja Caja 1 L,Bebidas,Gloria,6.4
+1220,Infusión de Cedrón Herbi Caja x25 Sobres,Abarrotes,Herbi,3.2
+1221,Gaseosa Guaraná Botella 3 L,Bebidas,Guaraná,9.9
+1222,Mermelada Marca Propia Piña Frasco 300 g,Abarrotes,Marca Propia,5.1
+1223,Ron Flor de Caña Botella 750 mL,Licores,Flor de Caña,52.3
+1224,Huevos Blancos San Fernando Pack x12,Lácteos y Huevos,San Fernando,7.9
+1225,Limpiatodo Poett Floral Botella 900 mL,Limpieza del Hogar,Poett,5.4
+1226,Helado D'Onofrio Chocolate Pote 1 L,Congelados,D'Onofrio,12.5
+1227,Aceite Vegetal Marca Propia Botella 1 L,Abarrotes,Marca Propia,8.4
+1228,Pechuga de Pollo San Fernando x Kg,"Carnes, Aves y Pescados",San Fernando,14.9
+1229,Galletas Dulces Costa Chocolate Paquete x6 Unidades,Panadería y Galletas,Costa,3.5
+1230,Suavizante Sapolio Botella 1 L,Limpieza del Hogar,Sapolio,9.1
+1231,Detergente en Polvo Bolívar Bolsa 2 Kg,Limpieza del Hogar,Bolívar,20.1
+1232,Papilla Gerber Plátano Tarro 400 g,Bebés,Gerber,17.0
+1233,Fideos Spaghetti Marca Propia Bolsa 250 g,Abarrotes,Marca Propia,2.1
+1234,Agua Mineral Vida Con Gas Pack x6 Botellas 625 mL,Bebidas,Vida,10.4
+1235,Gelatina Marca Propia Naranja Caja 140 g,Abarrotes,Marca Propia,2.1
+1236,Fideo Instantáneo Nissin Carne Sobre 85 g,Abarrotes,Nissin,2.5
+1237,Néctar Cifrut Multifruta Caja 1 L,Bebidas,Cifrut,4.4
+1238,Calamar x Kg,"Carnes, Aves y Pescados",Sin marca,25.5
+1239,Cereal de Maíz Kellogg's Corn Flakes Caja 250 g,Abarrotes,Kellogg's,8.5
+1240,Fórmula Infantil Enfamil Etapa 2 Tarro 400 g,Bebés,Enfamil,63.2
+1241,Huevos Pardos La Calera Pack x12,Lácteos y Huevos,La Calera,7.4
+1242,Leche Condensada Gloria Doypack 393 g,Lácteos y Huevos,Gloria,5.2
+1243,Compota Nestlé Pera Pote 113 g,Bebés,Nestlé,3.5
+1244,Papel Higiénico Suave Pack x24 Rollos,Limpieza del Hogar,Suave,35.9
+1245,Fideo Instantáneo Ajinomen Gallina Sobre 85 g,Abarrotes,Ajinomen,1.7
+1246,Papas Fritas Pringles Pollo Bolsa 40 g,Snacks y Golosinas,Pringles,2.6
+1247,Yogurt Laive Vainilla Botella 1 L,Lácteos y Huevos,Laive,5.7
+1248,Espumante Santiago Queirolo Brut Botella 750 mL,Licores,Santiago Queirolo,63.1
+1249,Verduras Mixtas Congeladas McCain Bolsa 500 g,Congelados,McCain,8.6
+1250,Helado Marca Propia Vainilla Pote 2.8 L,Congelados,Marca Propia,32.8
+1251,Papilla Gerber Arroz Tarro 400 g,Bebés,Gerber,17.5
+1252,Papilla Cerelac Trigo Tarro 400 g,Bebés,Cerelac,16.1
+1253,Mango Edward x Kg,Frutas y Verduras,Sin marca,5.2
+1254,Leche Evaporada Gloria Lata 395 g,Lácteos y Huevos,Gloria,5.2
+1255,Clavo de Olor Sibarita Sachet 20 g,Abarrotes,Sibarita,2.5
+1256,Vodka Smirnoff Botella 750 mL,Licores,Smirnoff,37.9
+1257,Azúcar Rubia Cartavio Bolsa 5 Kg,Abarrotes,Cartavio,19.3
+1258,Papas Fritas Lay's Queso Bolsa 140 g,Snacks y Golosinas,Lay's,5.5
+1259,Refresco en Polvo Tang Naranja Sobre 25 g,Bebidas,Tang,0.8
+1260,Refresco en Polvo Kanu Chicha Sobre 25 g,Bebidas,Kanu,0.9
+1261,Helado Marca Propia Chocolate Pote 1 L,Congelados,Marca Propia,13.3
+1262,Helado Laive Vainilla Vasito 120 mL,Congelados,Laive,4.0
+1263,Pallares Valle Norte Bolsa 500 g,Abarrotes,Valle Norte,9.1
+1264,Atún Florida Filete en Aceite Lata 170 g,Abarrotes,Florida,5.6
+1265,Arroz Extra Faraón Bolsa 5 Kg,Abarrotes,Faraón,27.4
+1266,Yogurt Laive Cereal Botella 1 L,Lácteos y Huevos,Laive,6.0
+1267,Papas Fritas Pringles Queso Bolsa 140 g,Snacks y Golosinas,Pringles,8.0
+1268,Helado Marca Propia Chocolate Vasito 120 mL,Congelados,Marca Propia,3.8
+1269,Shampoo Sedal Botella 650 mL,Cuidado Personal,Sedal,27.6
+1270,Mostaza Alacena Doypack 200 g,Abarrotes,Alacena,4.2
+1271,Helado Marca Propia Lúcuma Pote 1 L,Congelados,Marca Propia,13.1
+1272,Pan de Molde Bimbo Blanco Bolsa 400 g,Panadería y Galletas,Bimbo,7.0
+1273,Pan de Molde Marca Propia Blanco Bolsa 400 g,Panadería y Galletas,Marca Propia,5.4
+1274,Limpiatodo Marca Propia Floral Botella 900 mL,Limpieza del Hogar,Marca Propia,4.9
+1275,Compota Nestlé Manzana Pote 113 g,Bebés,Nestlé,3.5
+1276,Esponja Scotch-Brite Pack x3,Limpieza del Hogar,Scotch-Brite,5.7
+1277,Aceite Vegetal Friol Botella 900 mL,Abarrotes,Friol,11.4
+1278,Sazonador Knorr Sachet 100 g,Abarrotes,Knorr,2.8
+1279,Agua Mineral San Mateo Con Gas Bidón 7 L,Bebidas,San Mateo,5.5
+1280,Crema Corporal Dove Frasco 400 mL,Cuidado Personal,Dove,22.2
+1281,Desodorante Rexona Roll-on 50 mL,Cuidado Personal,Rexona,14.2
+1282,Pepino x Kg,Frutas y Verduras,Sin marca,3.4
+1283,Papa Amarilla x Kg,Frutas y Verduras,Sin marca,5.3
+1284,Pisco Queirolo Italia Botella 750 mL,Licores,Queirolo,54.6
+1285,Chocolate Premium Importado con Leche Barra 100 g,Snacks y Golosinas,Importado,15.7
+1286,Chocolate en Barra D'Onofrio Pack x6 Unidades,Snacks y Golosinas,D'Onofrio,7.2
+1287,Doritos Doritos Picante Bolsa 45 g,Snacks y Golosinas,Doritos,2.0
+1288,Espumante Importado Brut Botella 750 mL,Licores,Importado,77.3
+1289,Cereal de Maíz Kellogg's Chocolate Caja 500 g,Abarrotes,Kellogg's,14.4
+1290,Frijol Castilla Marca Propia Bolsa 1 Kg,Abarrotes,Marca Propia,11.5
+1291,Leche Evaporada Pura Vida Pack x6 Latas 395 g,Lácteos y Huevos,Pura Vida,27.6
+1292,Cerveza Cristal Pack x6 Latas 473 mL,Licores,Cristal,23.5
+1293,Queso Fresco Bella Holandesa Paquete 500 g,Lácteos y Huevos,Bella Holandesa,15.7
+1294,Sardina Florida Lata 425 g,Abarrotes,Florida,8.5
+1295,Yogurt Bella Holandesa Vainilla Botella 1 L,Lácteos y Huevos,Bella Holandesa,9.1
+1296,Pallares Costeño Bolsa 500 g,Abarrotes,Costeño,11.1
+1297,Hot Dog Braedt Cocktail Paquete 220 g,Embutidos,Braedt,6.8
+1298,Bebida Rehidratante Sporade Frutas Tropicales Botella 1 L,Bebidas,Sporade,6.2
+1299,Aceite de Oliva Extra Virgen Marca Propia Botella 500 mL,Abarrotes,Marca Propia,24.9
+1300,Papaya x Kg,Frutas y Verduras,Sin marca,4.0
